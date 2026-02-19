@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "68633d3a00814d1e69a83251"
+  },
+  "name": "OP Toril",
+  "client": "SPX",
+  "hub_cost_per_parcel": {
+    "2W": 16,
+    "3W": 16,
+    "4W": 18
+  },
+  "hub_profit_per_parcel": {
+    "2W": 21,
+    "3W": 21,
+    "4W": 21
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-21T05:19:28.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686522545eec51df14bb5f7b"
+  },
+  "name": "Panabo",
+  "client": "2GO",
+  "hub_cost_per_parcel": {
+    "2W": 15,
+    "3W": 0,
+    "4W": 0
+  },
+  "hub_profit_per_parcel": {
+    "2W": 25,
+    "3W": 0,
+    "4W": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686bdc8b3998187aade655e5"
+  },
+  "name": "OP Wangan",
+  "client": "SPX",
+  "hub_cost_per_parcel": {
+    "2W": 16,
+    "3W": 18,
+    "4W": 20
+  },
+  "hub_profit_per_parcel": {
+    "2W": 21,
+    "3W": 21,
+    "4W": 21
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686be51fb1dcf6079c921176"
+  },
+  "name": "Bago Aplaya",
+  "client": "LEX",
+  "hub_cost_per_parcel": {
+    "2W": 15,
+    "3W": 16,
+    "4W": 18
+  },
+  "hub_profit_per_parcel": {
+    "2W": 21,
+    "3W": 21,
+    "4W": 21
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-08T01:04:33.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69643de336bc3badc0d9e33e"
+  },
+  "name": "PNC HUB",
+  "client": "LEX",
+  "hub_cost_per_parcel": {
+    "2W": 15,
+    "3W": 16,
+    "4W": 18
+  },
+  "hub_profit_per_parcel": {
+    "2W": 1,
+    "3W": 1,
+    "4W": 1
+  },
+  "createdAt": {
+    "$date": "2026-01-12T00:18:43.460Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-12T00:18:43.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69643e14173e57aed93a4124"
+  },
+  "name": "MAA HUB",
+  "client": "LEX",
+  "hub_cost_per_parcel": {
+    "2W": 15,
+    "3W": 16,
+    "4W": 18
+  },
+  "hub_profit_per_parcel": {
+    "2W": 1,
+    "3W": 1,
+    "4W": 1
+  },
+  "createdAt": {
+    "$date": "2026-01-12T00:19:32.269Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-12T00:19:32.269Z"
+  },
+  "__v": 0
+}]

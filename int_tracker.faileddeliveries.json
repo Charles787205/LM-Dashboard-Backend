@@ -1,0 +1,6842 @@
+[{
+  "_id": {
+    "$oid": "68807317ced7a44ea5131bcc"
+  },
+  "report": {
+    "$oid": "68807317ced7a44ea5131bca"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:55.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:55.570Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807317ced7a44ea5131bd0"
+  },
+  "report": {
+    "$oid": "68807317ced7a44ea5131bce"
+  },
+  "canceled_bef_delivery": 32,
+  "no_cash_available": 1,
+  "postpone": 113,
+  "not_at_home": 53,
+  "refuse": 89,
+  "unreachable": 18,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:55.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:55.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807318ced7a44ea5131bd4"
+  },
+  "report": {
+    "$oid": "68807318ced7a44ea5131bd2"
+  },
+  "canceled_bef_delivery": 32,
+  "no_cash_available": 6,
+  "postpone": 45,
+  "not_at_home": 30,
+  "refuse": 58,
+  "unreachable": 29,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:56.409Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:56.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807318ced7a44ea5131bd8"
+  },
+  "report": {
+    "$oid": "68807318ced7a44ea5131bd6"
+  },
+  "canceled_bef_delivery": 26,
+  "no_cash_available": 5,
+  "postpone": 86,
+  "not_at_home": 53,
+  "refuse": 68,
+  "unreachable": 33,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:56.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:56.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807319ced7a44ea5131bdc"
+  },
+  "report": {
+    "$oid": "68807319ced7a44ea5131bda"
+  },
+  "canceled_bef_delivery": 58,
+  "no_cash_available": 9,
+  "postpone": 209,
+  "not_at_home": 69,
+  "refuse": 94,
+  "unreachable": 45,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:57.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:57.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807319ced7a44ea5131be0"
+  },
+  "report": {
+    "$oid": "68807319ced7a44ea5131bde"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 4,
+  "postpone": 25,
+  "not_at_home": 2,
+  "refuse": 24,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:57.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:57.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731aced7a44ea5131be4"
+  },
+  "report": {
+    "$oid": "68807319ced7a44ea5131be2"
+  },
+  "canceled_bef_delivery": 64,
+  "no_cash_available": 9,
+  "postpone": 136,
+  "not_at_home": 89,
+  "refuse": 117,
+  "unreachable": 36,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:58.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:58.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731aced7a44ea5131be8"
+  },
+  "report": {
+    "$oid": "6880731aced7a44ea5131be6"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:58.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:58.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731aced7a44ea5131bec"
+  },
+  "report": {
+    "$oid": "6880731aced7a44ea5131bea"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:58.905Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:58.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731bced7a44ea5131bf0"
+  },
+  "report": {
+    "$oid": "6880731bced7a44ea5131bee"
+  },
+  "canceled_bef_delivery": 61,
+  "no_cash_available": 16,
+  "postpone": 348,
+  "not_at_home": 105,
+  "refuse": 124,
+  "unreachable": 35,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:59.320Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:59.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731bced7a44ea5131bf4"
+  },
+  "report": {
+    "$oid": "6880731bced7a44ea5131bf2"
+  },
+  "canceled_bef_delivery": 57,
+  "no_cash_available": 14,
+  "postpone": 73,
+  "not_at_home": 40,
+  "refuse": 94,
+  "unreachable": 26,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:28:59.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:28:59.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731cced7a44ea5131bf8"
+  },
+  "report": {
+    "$oid": "6880731bced7a44ea5131bf6"
+  },
+  "canceled_bef_delivery": 40,
+  "no_cash_available": 4,
+  "postpone": 134,
+  "not_at_home": 77,
+  "refuse": 95,
+  "unreachable": 41,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:00.153Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:00.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731cced7a44ea5131bfc"
+  },
+  "report": {
+    "$oid": "6880731cced7a44ea5131bfa"
+  },
+  "canceled_bef_delivery": 42,
+  "no_cash_available": 11,
+  "postpone": 470,
+  "not_at_home": 86,
+  "refuse": 83,
+  "unreachable": 54,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:00.569Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:00.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731cced7a44ea5131c00"
+  },
+  "report": {
+    "$oid": "6880731cced7a44ea5131bfe"
+  },
+  "canceled_bef_delivery": 69,
+  "no_cash_available": 4,
+  "postpone": 179,
+  "not_at_home": 116,
+  "refuse": 162,
+  "unreachable": 40,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:00.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:00.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731dced7a44ea5131c04"
+  },
+  "report": {
+    "$oid": "6880731dced7a44ea5131c02"
+  },
+  "canceled_bef_delivery": 29,
+  "no_cash_available": 0,
+  "postpone": 5,
+  "not_at_home": 5,
+  "refuse": 2,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:01.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:01.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731dced7a44ea5131c08"
+  },
+  "report": {
+    "$oid": "6880731dced7a44ea5131c06"
+  },
+  "canceled_bef_delivery": 87,
+  "no_cash_available": 29,
+  "postpone": 207,
+  "not_at_home": 119,
+  "refuse": 139,
+  "unreachable": 43,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:01.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:01.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731eced7a44ea5131c0c"
+  },
+  "report": {
+    "$oid": "6880731eced7a44ea5131c0a"
+  },
+  "canceled_bef_delivery": 71,
+  "no_cash_available": 6,
+  "postpone": 98,
+  "not_at_home": 60,
+  "refuse": 122,
+  "unreachable": 32,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:02.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:02.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731eced7a44ea5131c10"
+  },
+  "report": {
+    "$oid": "6880731eced7a44ea5131c0e"
+  },
+  "canceled_bef_delivery": 19,
+  "no_cash_available": 4,
+  "postpone": 19,
+  "not_at_home": 21,
+  "refuse": 30,
+  "unreachable": 7,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:02.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:02.645Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731fced7a44ea5131c14"
+  },
+  "report": {
+    "$oid": "6880731eced7a44ea5131c12"
+  },
+  "canceled_bef_delivery": 56,
+  "no_cash_available": 11,
+  "postpone": 201,
+  "not_at_home": 105,
+  "refuse": 143,
+  "unreachable": 57,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:03.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:03.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731fced7a44ea5131c18"
+  },
+  "report": {
+    "$oid": "6880731fced7a44ea5131c16"
+  },
+  "canceled_bef_delivery": 73,
+  "no_cash_available": 5,
+  "postpone": 133,
+  "not_at_home": 84,
+  "refuse": 144,
+  "unreachable": 42,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:03.477Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:03.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880731fced7a44ea5131c1c"
+  },
+  "report": {
+    "$oid": "6880731fced7a44ea5131c1a"
+  },
+  "canceled_bef_delivery": 76,
+  "no_cash_available": 17,
+  "postpone": 246,
+  "not_at_home": 139,
+  "refuse": 152,
+  "unreachable": 45,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:03.893Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:03.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807320ced7a44ea5131c20"
+  },
+  "report": {
+    "$oid": "68807320ced7a44ea5131c1e"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 0,
+  "postpone": 13,
+  "not_at_home": 3,
+  "refuse": 9,
+  "unreachable": 3,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:04.308Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:04.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807320ced7a44ea5131c24"
+  },
+  "report": {
+    "$oid": "68807320ced7a44ea5131c22"
+  },
+  "canceled_bef_delivery": 50,
+  "no_cash_available": 15,
+  "postpone": 311,
+  "not_at_home": 108,
+  "refuse": 216,
+  "unreachable": 37,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:04.723Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:04.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807321ced7a44ea5131c28"
+  },
+  "report": {
+    "$oid": "68807320ced7a44ea5131c26"
+  },
+  "canceled_bef_delivery": 25,
+  "no_cash_available": 0,
+  "postpone": 62,
+  "not_at_home": 10,
+  "refuse": 16,
+  "unreachable": 2,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:05.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:05.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807321ced7a44ea5131c2c"
+  },
+  "report": {
+    "$oid": "68807321ced7a44ea5131c2a"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 10,
+  "postpone": 83,
+  "not_at_home": 61,
+  "refuse": 111,
+  "unreachable": 29,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:05.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:05.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807321ced7a44ea5131c30"
+  },
+  "report": {
+    "$oid": "68807321ced7a44ea5131c2e"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 1,
+  "not_at_home": 0,
+  "refuse": 6,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:05.968Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:05.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807322ced7a44ea5131c34"
+  },
+  "report": {
+    "$oid": "68807322ced7a44ea5131c32"
+  },
+  "canceled_bef_delivery": 47,
+  "no_cash_available": 5,
+  "postpone": 237,
+  "not_at_home": 116,
+  "refuse": 105,
+  "unreachable": 40,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:06.384Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:06.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807322ced7a44ea5131c38"
+  },
+  "report": {
+    "$oid": "68807322ced7a44ea5131c36"
+  },
+  "canceled_bef_delivery": 73,
+  "no_cash_available": 13,
+  "postpone": 184,
+  "not_at_home": 83,
+  "refuse": 81,
+  "unreachable": 42,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:06.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:06.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807323ced7a44ea5131c3c"
+  },
+  "report": {
+    "$oid": "68807323ced7a44ea5131c3a"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 7,
+  "refuse": 2,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:07.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:07.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807323ced7a44ea5131c40"
+  },
+  "report": {
+    "$oid": "68807323ced7a44ea5131c3e"
+  },
+  "canceled_bef_delivery": 75,
+  "no_cash_available": 12,
+  "postpone": 236,
+  "not_at_home": 149,
+  "refuse": 169,
+  "unreachable": 48,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-07-23T05:29:07.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:29:07.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fa08830d132bb038ab"
+  },
+  "report": {
+    "$oid": "688075f908830d132bb038a9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:14.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:14.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fa08830d132bb038af"
+  },
+  "report": {
+    "$oid": "688075fa08830d132bb038ad"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:14.608Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:14.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fb08830d132bb038b3"
+  },
+  "report": {
+    "$oid": "688075fa08830d132bb038b1"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:15.024Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:15.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fb08830d132bb038b7"
+  },
+  "report": {
+    "$oid": "688075fb08830d132bb038b5"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:15.439Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:15.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fb08830d132bb038bb"
+  },
+  "report": {
+    "$oid": "688075fb08830d132bb038b9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:15.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:15.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fc08830d132bb038bf"
+  },
+  "report": {
+    "$oid": "688075fc08830d132bb038bd"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 0,
+  "postpone": 9,
+  "not_at_home": 26,
+  "refuse": 4,
+  "unreachable": 91,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:16.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:16.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fc08830d132bb038c3"
+  },
+  "report": {
+    "$oid": "688075fc08830d132bb038c1"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 36,
+  "not_at_home": 0,
+  "refuse": 37,
+  "unreachable": 30,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:16.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:16.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fd08830d132bb038c7"
+  },
+  "report": {
+    "$oid": "688075fc08830d132bb038c5"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 13,
+  "not_at_home": 0,
+  "refuse": 23,
+  "unreachable": 28,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:17.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:17.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fd08830d132bb038cb"
+  },
+  "report": {
+    "$oid": "688075fd08830d132bb038c9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:17.533Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:17.533Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fd08830d132bb038cf"
+  },
+  "report": {
+    "$oid": "688075fd08830d132bb038cd"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:17.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:17.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fe08830d132bb038d3"
+  },
+  "report": {
+    "$oid": "688075fe08830d132bb038d1"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 27,
+  "not_at_home": 0,
+  "refuse": 14,
+  "unreachable": 22,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:18.361Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:18.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075fe08830d132bb038d7"
+  },
+  "report": {
+    "$oid": "688075fe08830d132bb038d5"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 22,
+  "postpone": 167,
+  "not_at_home": 31,
+  "refuse": 52,
+  "unreachable": 32,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:18.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:18.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075ff08830d132bb038db"
+  },
+  "report": {
+    "$oid": "688075fe08830d132bb038d9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 1,
+  "postpone": 147,
+  "not_at_home": 63,
+  "refuse": 26,
+  "unreachable": 15,
+  "invalid_address": 63,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:19.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:19.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688075ff08830d132bb038df"
+  },
+  "report": {
+    "$oid": "688075ff08830d132bb038dd"
+  },
+  "canceled_bef_delivery": 32,
+  "no_cash_available": 0,
+  "postpone": 3,
+  "not_at_home": 0,
+  "refuse": 38,
+  "unreachable": 46,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:19.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:19.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760008830d132bb038e3"
+  },
+  "report": {
+    "$oid": "688075ff08830d132bb038e1"
+  },
+  "canceled_bef_delivery": 13,
+  "no_cash_available": 45,
+  "postpone": 15,
+  "not_at_home": 8,
+  "refuse": 19,
+  "unreachable": 6,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:20.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:20.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760008830d132bb038e7"
+  },
+  "report": {
+    "$oid": "6880760008830d132bb038e5"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 111,
+  "not_at_home": 5,
+  "refuse": 63,
+  "unreachable": 38,
+  "invalid_address": 20,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:20.445Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:20.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760008830d132bb038eb"
+  },
+  "report": {
+    "$oid": "6880760008830d132bb038e9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 6,
+  "postpone": 53,
+  "not_at_home": 0,
+  "refuse": 36,
+  "unreachable": 23,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:20.882Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:20.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760108830d132bb038ef"
+  },
+  "report": {
+    "$oid": "6880760108830d132bb038ed"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 25,
+  "not_at_home": 21,
+  "refuse": 45,
+  "unreachable": 21,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:21.296Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:21.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760108830d132bb038f3"
+  },
+  "report": {
+    "$oid": "6880760108830d132bb038f1"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 21,
+  "postpone": 63,
+  "not_at_home": 23,
+  "refuse": 34,
+  "unreachable": 27,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:21.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:21.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760208830d132bb038f7"
+  },
+  "report": {
+    "$oid": "6880760108830d132bb038f5"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 0,
+  "postpone": 40,
+  "not_at_home": 38,
+  "refuse": 29,
+  "unreachable": 5,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:22.126Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:22.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760208830d132bb038fb"
+  },
+  "report": {
+    "$oid": "6880760208830d132bb038f9"
+  },
+  "canceled_bef_delivery": 30,
+  "no_cash_available": 122,
+  "postpone": 120,
+  "not_at_home": 8,
+  "refuse": 28,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:22.539Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:22.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760208830d132bb038ff"
+  },
+  "report": {
+    "$oid": "6880760208830d132bb038fd"
+  },
+  "canceled_bef_delivery": 8,
+  "no_cash_available": 8,
+  "postpone": 23,
+  "not_at_home": 20,
+  "refuse": 14,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:22.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:22.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760308830d132bb03903"
+  },
+  "report": {
+    "$oid": "6880760308830d132bb03901"
+  },
+  "canceled_bef_delivery": 45,
+  "no_cash_available": 20,
+  "postpone": 187,
+  "not_at_home": 24,
+  "refuse": 33,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:23.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:23.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760308830d132bb03907"
+  },
+  "report": {
+    "$oid": "6880760308830d132bb03905"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 59,
+  "postpone": 507,
+  "not_at_home": 115,
+  "refuse": 25,
+  "unreachable": 40,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:23.785Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:23.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760408830d132bb0390b"
+  },
+  "report": {
+    "$oid": "6880760308830d132bb03909"
+  },
+  "canceled_bef_delivery": 60,
+  "no_cash_available": 35,
+  "postpone": 236,
+  "not_at_home": 130,
+  "refuse": 59,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:24.200Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:24.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760408830d132bb0390f"
+  },
+  "report": {
+    "$oid": "6880760408830d132bb0390d"
+  },
+  "canceled_bef_delivery": 44,
+  "no_cash_available": 77,
+  "postpone": 160,
+  "not_at_home": 23,
+  "refuse": 40,
+  "unreachable": 68,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:24.613Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:24.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760508830d132bb03913"
+  },
+  "report": {
+    "$oid": "6880760408830d132bb03911"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 233,
+  "not_at_home": 219,
+  "refuse": 31,
+  "unreachable": 37,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:25.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:25.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760508830d132bb03917"
+  },
+  "report": {
+    "$oid": "6880760508830d132bb03915"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 7,
+  "refuse": 2,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:25.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:25.438Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760508830d132bb0391b"
+  },
+  "report": {
+    "$oid": "6880760508830d132bb03919"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 10,
+  "postpone": 20,
+  "not_at_home": 15,
+  "refuse": 17,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:25.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:25.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6880760608830d132bb0391f"
+  },
+  "report": {
+    "$oid": "6880760608830d132bb0391d"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 65,
+  "postpone": 155,
+  "not_at_home": 45,
+  "refuse": 49,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:41:26.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:41:26.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807801dea85aa413e94f79"
+  },
+  "report": {
+    "$oid": "68807801dea85aa413e94f77"
+  },
+  "canceled_bef_delivery": 86,
+  "no_cash_available": 63,
+  "postpone": 54,
+  "not_at_home": 38,
+  "refuse": 18,
+  "unreachable": 26,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:53.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:53.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807802dea85aa413e94f7d"
+  },
+  "report": {
+    "$oid": "68807801dea85aa413e94f7b"
+  },
+  "canceled_bef_delivery": 32,
+  "no_cash_available": 45,
+  "postpone": 33,
+  "not_at_home": 53,
+  "refuse": 37,
+  "unreachable": 39,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:54.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:54.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807802dea85aa413e94f81"
+  },
+  "report": {
+    "$oid": "68807802dea85aa413e94f7f"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 48,
+  "postpone": 22,
+  "not_at_home": 51,
+  "refuse": 55,
+  "unreachable": 110,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:54.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:54.487Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807802dea85aa413e94f85"
+  },
+  "report": {
+    "$oid": "68807802dea85aa413e94f83"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 26,
+  "postpone": 32,
+  "not_at_home": 45,
+  "refuse": 48,
+  "unreachable": 48,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:54.909Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:54.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807803dea85aa413e94f89"
+  },
+  "report": {
+    "$oid": "68807803dea85aa413e94f87"
+  },
+  "canceled_bef_delivery": 43,
+  "no_cash_available": 36,
+  "postpone": 37,
+  "not_at_home": 39,
+  "refuse": 50,
+  "unreachable": 53,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:55.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:55.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807803dea85aa413e94f8d"
+  },
+  "report": {
+    "$oid": "68807803dea85aa413e94f8b"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 47,
+  "postpone": 38,
+  "not_at_home": 146,
+  "refuse": 51,
+  "unreachable": 52,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:55.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:55.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807804dea85aa413e94f91"
+  },
+  "report": {
+    "$oid": "68807803dea85aa413e94f8f"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 36,
+  "postpone": 25,
+  "not_at_home": 44,
+  "refuse": 43,
+  "unreachable": 139,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:56.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:56.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807804dea85aa413e94f95"
+  },
+  "report": {
+    "$oid": "68807804dea85aa413e94f93"
+  },
+  "canceled_bef_delivery": 48,
+  "no_cash_available": 46,
+  "postpone": 51,
+  "not_at_home": 55,
+  "refuse": 51,
+  "unreachable": 85,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:56.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:56.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807805dea85aa413e94f99"
+  },
+  "report": {
+    "$oid": "68807804dea85aa413e94f97"
+  },
+  "canceled_bef_delivery": 29,
+  "no_cash_available": 48,
+  "postpone": 51,
+  "not_at_home": 69,
+  "refuse": 38,
+  "unreachable": 70,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:57.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:57.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807805dea85aa413e94f9d"
+  },
+  "report": {
+    "$oid": "68807805dea85aa413e94f9b"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 54,
+  "postpone": 64,
+  "not_at_home": 68,
+  "refuse": 58,
+  "unreachable": 119,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:57.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:57.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807805dea85aa413e94fa1"
+  },
+  "report": {
+    "$oid": "68807805dea85aa413e94f9f"
+  },
+  "canceled_bef_delivery": 46,
+  "no_cash_available": 60,
+  "postpone": 48,
+  "not_at_home": 97,
+  "refuse": 51,
+  "unreachable": 124,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:57.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:57.872Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807806dea85aa413e94fa5"
+  },
+  "report": {
+    "$oid": "68807806dea85aa413e94fa3"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 57,
+  "postpone": 54,
+  "not_at_home": 94,
+  "refuse": 27,
+  "unreachable": 63,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:58.294Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:58.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807806dea85aa413e94fa9"
+  },
+  "report": {
+    "$oid": "68807806dea85aa413e94fa7"
+  },
+  "canceled_bef_delivery": 39,
+  "no_cash_available": 67,
+  "postpone": 102,
+  "not_at_home": 142,
+  "refuse": 31,
+  "unreachable": 34,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:58.726Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:58.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807807dea85aa413e94fad"
+  },
+  "report": {
+    "$oid": "68807806dea85aa413e94fab"
+  },
+  "canceled_bef_delivery": 65,
+  "no_cash_available": 62,
+  "postpone": 55,
+  "not_at_home": 89,
+  "refuse": 70,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:59.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:59.148Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807807dea85aa413e94fb1"
+  },
+  "report": {
+    "$oid": "68807807dea85aa413e94faf"
+  },
+  "canceled_bef_delivery": 29,
+  "no_cash_available": 45,
+  "postpone": 33,
+  "not_at_home": 65,
+  "refuse": 41,
+  "unreachable": 51,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:59.571Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:59.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807807dea85aa413e94fb5"
+  },
+  "report": {
+    "$oid": "68807807dea85aa413e94fb3"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 68,
+  "postpone": 59,
+  "not_at_home": 62,
+  "refuse": 57,
+  "unreachable": 34,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:49:59.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:49:59.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807808dea85aa413e94fb9"
+  },
+  "report": {
+    "$oid": "68807808dea85aa413e94fb7"
+  },
+  "canceled_bef_delivery": 40,
+  "no_cash_available": 56,
+  "postpone": 61,
+  "not_at_home": 42,
+  "refuse": 48,
+  "unreachable": 75,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:50:00.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:50:00.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807808dea85aa413e94fbd"
+  },
+  "report": {
+    "$oid": "68807808dea85aa413e94fbb"
+  },
+  "canceled_bef_delivery": 32,
+  "no_cash_available": 32,
+  "postpone": 43,
+  "not_at_home": 67,
+  "refuse": 41,
+  "unreachable": 83,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:50:00.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:50:00.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807809dea85aa413e94fc1"
+  },
+  "report": {
+    "$oid": "68807809dea85aa413e94fbf"
+  },
+  "canceled_bef_delivery": 22,
+  "no_cash_available": 67,
+  "postpone": 56,
+  "not_at_home": 86,
+  "refuse": 31,
+  "unreachable": 96,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:50:01.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:50:01.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807809dea85aa413e94fc5"
+  },
+  "report": {
+    "$oid": "68807809dea85aa413e94fc3"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 65,
+  "postpone": 59,
+  "not_at_home": 77,
+  "refuse": 68,
+  "unreachable": 75,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:50:01.684Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:50:01.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c0ae119ac3b1137a57"
+  },
+  "report": {
+    "$oid": "688079c0ae119ac3b1137a55"
+  },
+  "canceled_bef_delivery": 86,
+  "no_cash_available": 63,
+  "postpone": 54,
+  "not_at_home": 38,
+  "refuse": 18,
+  "unreachable": 26,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:20.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:20.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c0ae119ac3b1137a5b"
+  },
+  "report": {
+    "$oid": "688079c0ae119ac3b1137a59"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 26,
+  "postpone": 32,
+  "not_at_home": 45,
+  "refuse": 48,
+  "unreachable": 48,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:20.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:20.724Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c1ae119ac3b1137a5f"
+  },
+  "report": {
+    "$oid": "688079c0ae119ac3b1137a5d"
+  },
+  "canceled_bef_delivery": 43,
+  "no_cash_available": 36,
+  "postpone": 37,
+  "not_at_home": 39,
+  "refuse": 50,
+  "unreachable": 53,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:21.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:21.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c1ae119ac3b1137a63"
+  },
+  "report": {
+    "$oid": "688079c1ae119ac3b1137a61"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 47,
+  "postpone": 38,
+  "not_at_home": 146,
+  "refuse": 51,
+  "unreachable": 52,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:21.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:21.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c1ae119ac3b1137a67"
+  },
+  "report": {
+    "$oid": "688079c1ae119ac3b1137a65"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 36,
+  "postpone": 25,
+  "not_at_home": 44,
+  "refuse": 43,
+  "unreachable": 139,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:21.988Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:21.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c2ae119ac3b1137a6b"
+  },
+  "report": {
+    "$oid": "688079c2ae119ac3b1137a69"
+  },
+  "canceled_bef_delivery": 48,
+  "no_cash_available": 46,
+  "postpone": 51,
+  "not_at_home": 55,
+  "refuse": 51,
+  "unreachable": 85,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:22.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:22.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c2ae119ac3b1137a6f"
+  },
+  "report": {
+    "$oid": "688079c2ae119ac3b1137a6d"
+  },
+  "canceled_bef_delivery": 29,
+  "no_cash_available": 48,
+  "postpone": 51,
+  "not_at_home": 69,
+  "refuse": 38,
+  "unreachable": 70,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:22.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:22.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c3ae119ac3b1137a73"
+  },
+  "report": {
+    "$oid": "688079c3ae119ac3b1137a71"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 54,
+  "postpone": 64,
+  "not_at_home": 68,
+  "refuse": 58,
+  "unreachable": 119,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:23.248Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:23.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c3ae119ac3b1137a77"
+  },
+  "report": {
+    "$oid": "688079c3ae119ac3b1137a75"
+  },
+  "canceled_bef_delivery": 46,
+  "no_cash_available": 60,
+  "postpone": 48,
+  "not_at_home": 97,
+  "refuse": 51,
+  "unreachable": 124,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:23.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:23.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c4ae119ac3b1137a7b"
+  },
+  "report": {
+    "$oid": "688079c3ae119ac3b1137a79"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 57,
+  "postpone": 54,
+  "not_at_home": 94,
+  "refuse": 27,
+  "unreachable": 63,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:24.089Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:24.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c4ae119ac3b1137a7f"
+  },
+  "report": {
+    "$oid": "688079c4ae119ac3b1137a7d"
+  },
+  "canceled_bef_delivery": 39,
+  "no_cash_available": 67,
+  "postpone": 102,
+  "not_at_home": 142,
+  "refuse": 31,
+  "unreachable": 34,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:24.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:24.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c4ae119ac3b1137a83"
+  },
+  "report": {
+    "$oid": "688079c4ae119ac3b1137a81"
+  },
+  "canceled_bef_delivery": 65,
+  "no_cash_available": 62,
+  "postpone": 55,
+  "not_at_home": 89,
+  "refuse": 70,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:24.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:24.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c5ae119ac3b1137a87"
+  },
+  "report": {
+    "$oid": "688079c5ae119ac3b1137a85"
+  },
+  "canceled_bef_delivery": 29,
+  "no_cash_available": 45,
+  "postpone": 33,
+  "not_at_home": 65,
+  "refuse": 41,
+  "unreachable": 51,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:25.347Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:25.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c5ae119ac3b1137a8b"
+  },
+  "report": {
+    "$oid": "688079c5ae119ac3b1137a89"
+  },
+  "canceled_bef_delivery": 38,
+  "no_cash_available": 68,
+  "postpone": 59,
+  "not_at_home": 62,
+  "refuse": 57,
+  "unreachable": 34,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:25.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:25.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688079c6ae119ac3b1137a8f"
+  },
+  "report": {
+    "$oid": "688079c5ae119ac3b1137a8d"
+  },
+  "canceled_bef_delivery": 40,
+  "no_cash_available": 56,
+  "postpone": 61,
+  "not_at_home": 42,
+  "refuse": 48,
+  "unreachable": 75,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-23T05:57:26.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T05:57:26.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807cf9f81badd487a139a7"
+  },
+  "report": {
+    "$oid": "68807cf9f81badd487a139a5"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 23,
+  "postpone": 29,
+  "not_at_home": 70,
+  "refuse": 21,
+  "unreachable": 85,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T06:11:05.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T06:11:05.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807cfaf81badd487a139ab"
+  },
+  "report": {
+    "$oid": "68807cfaf81badd487a139a9"
+  },
+  "canceled_bef_delivery": 3,
+  "no_cash_available": 12,
+  "postpone": 15,
+  "not_at_home": 46,
+  "refuse": 9,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T06:11:06.373Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T06:11:06.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68807cfaf81badd487a139af"
+  },
+  "report": {
+    "$oid": "68807cfaf81badd487a139ad"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 5,
+  "postpone": 12,
+  "not_at_home": 28,
+  "refuse": 17,
+  "unreachable": 14,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-23T06:11:06.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-23T06:11:06.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d16f1c5d4fcc514f2325"
+  },
+  "report": {
+    "$oid": "6881d16e1c5d4fcc514f2323"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 2,
+  "not_at_home": 4,
+  "refuse": 15,
+  "unreachable": 4,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:43.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:43.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d16f1c5d4fcc514f2329"
+  },
+  "report": {
+    "$oid": "6881d16f1c5d4fcc514f2327"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:43.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:43.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d16f1c5d4fcc514f232d"
+  },
+  "report": {
+    "$oid": "6881d16f1c5d4fcc514f232b"
+  },
+  "canceled_bef_delivery": 76,
+  "no_cash_available": 16,
+  "postpone": 220,
+  "not_at_home": 129,
+  "refuse": 164,
+  "unreachable": 61,
+  "invalid_address": 9,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:43.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:43.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1701c5d4fcc514f2331"
+  },
+  "report": {
+    "$oid": "6881d1701c5d4fcc514f232f"
+  },
+  "canceled_bef_delivery": 62,
+  "no_cash_available": 1,
+  "postpone": 91,
+  "not_at_home": 72,
+  "refuse": 149,
+  "unreachable": 38,
+  "invalid_address": 6,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:44.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:44.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1701c5d4fcc514f2335"
+  },
+  "report": {
+    "$oid": "6881d1701c5d4fcc514f2333"
+  },
+  "canceled_bef_delivery": 45,
+  "no_cash_available": 11,
+  "postpone": 107,
+  "not_at_home": 97,
+  "refuse": 106,
+  "unreachable": 33,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:44.816Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:44.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1711c5d4fcc514f2339"
+  },
+  "report": {
+    "$oid": "6881d1711c5d4fcc514f2337"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:45.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:45.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1711c5d4fcc514f233d"
+  },
+  "report": {
+    "$oid": "6881d1711c5d4fcc514f233b"
+  },
+  "canceled_bef_delivery": 63,
+  "no_cash_available": 17,
+  "postpone": 163,
+  "not_at_home": 127,
+  "refuse": 131,
+  "unreachable": 34,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:45.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:45.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1721c5d4fcc514f2341"
+  },
+  "report": {
+    "$oid": "6881d1711c5d4fcc514f233f"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:46.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:46.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1721c5d4fcc514f2345"
+  },
+  "report": {
+    "$oid": "6881d1721c5d4fcc514f2343"
+  },
+  "canceled_bef_delivery": 62,
+  "no_cash_available": 16,
+  "postpone": 141,
+  "not_at_home": 77,
+  "refuse": 175,
+  "unreachable": 25,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:46.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:46.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1721c5d4fcc514f2349"
+  },
+  "report": {
+    "$oid": "6881d1721c5d4fcc514f2347"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 0,
+  "postpone": 3,
+  "not_at_home": 0,
+  "refuse": 34,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:46.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:46.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1731c5d4fcc514f234d"
+  },
+  "report": {
+    "$oid": "6881d1731c5d4fcc514f234b"
+  },
+  "canceled_bef_delivery": 40,
+  "no_cash_available": 9,
+  "postpone": 108,
+  "not_at_home": 67,
+  "refuse": 103,
+  "unreachable": 22,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:47.383Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:47.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1731c5d4fcc514f2351"
+  },
+  "report": {
+    "$oid": "6881d1731c5d4fcc514f234f"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:47.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:47.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1741c5d4fcc514f2355"
+  },
+  "report": {
+    "$oid": "6881d1741c5d4fcc514f2353"
+  },
+  "canceled_bef_delivery": 53,
+  "no_cash_available": 7,
+  "postpone": 348,
+  "not_at_home": 142,
+  "refuse": 93,
+  "unreachable": 29,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:48.229Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:48.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1741c5d4fcc514f2359"
+  },
+  "report": {
+    "$oid": "6881d1741c5d4fcc514f2357"
+  },
+  "canceled_bef_delivery": 45,
+  "no_cash_available": 7,
+  "postpone": 197,
+  "not_at_home": 32,
+  "refuse": 147,
+  "unreachable": 26,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:48.651Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:48.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1751c5d4fcc514f235d"
+  },
+  "report": {
+    "$oid": "6881d1741c5d4fcc514f235b"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 5,
+  "not_at_home": 0,
+  "refuse": 27,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:49.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:49.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d1751c5d4fcc514f2361"
+  },
+  "report": {
+    "$oid": "6881d1751c5d4fcc514f235f"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:23:49.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:23:49.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7031c5d4fcc514f23a3"
+  },
+  "report": {
+    "$oid": "6881d7031c5d4fcc514f23a1"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 13,
+  "postpone": 23,
+  "not_at_home": 13,
+  "refuse": 14,
+  "unreachable": 22,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:31.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:31.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7041c5d4fcc514f23a7"
+  },
+  "report": {
+    "$oid": "6881d7031c5d4fcc514f23a5"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 0,
+  "postpone": 22,
+  "not_at_home": 13,
+  "refuse": 16,
+  "unreachable": 24,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:32.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:32.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7041c5d4fcc514f23ab"
+  },
+  "report": {
+    "$oid": "6881d7041c5d4fcc514f23a9"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 13,
+  "postpone": 33,
+  "not_at_home": 8,
+  "refuse": 12,
+  "unreachable": 21,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:32.573Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:32.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7041c5d4fcc514f23af"
+  },
+  "report": {
+    "$oid": "6881d7041c5d4fcc514f23ad"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 11,
+  "postpone": 33,
+  "not_at_home": 4,
+  "refuse": 15,
+  "unreachable": 14,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:32.993Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:32.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7051c5d4fcc514f23b3"
+  },
+  "report": {
+    "$oid": "6881d7051c5d4fcc514f23b1"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 28,
+  "postpone": 55,
+  "not_at_home": 22,
+  "refuse": 17,
+  "unreachable": 47,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:33.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:33.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7051c5d4fcc514f23b7"
+  },
+  "report": {
+    "$oid": "6881d7051c5d4fcc514f23b5"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 13,
+  "postpone": 38,
+  "not_at_home": 22,
+  "refuse": 24,
+  "unreachable": 24,
+  "invalid_address": 8,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:33.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:33.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7061c5d4fcc514f23bb"
+  },
+  "report": {
+    "$oid": "6881d7061c5d4fcc514f23b9"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 18,
+  "postpone": 33,
+  "not_at_home": 22,
+  "refuse": 30,
+  "unreachable": 18,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:34.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:34.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7061c5d4fcc514f23bf"
+  },
+  "report": {
+    "$oid": "6881d7061c5d4fcc514f23bd"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 17,
+  "postpone": 26,
+  "not_at_home": 23,
+  "refuse": 17,
+  "unreachable": 15,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:34.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:34.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7071c5d4fcc514f23c3"
+  },
+  "report": {
+    "$oid": "6881d7061c5d4fcc514f23c1"
+  },
+  "canceled_bef_delivery": 18,
+  "no_cash_available": 18,
+  "postpone": 22,
+  "not_at_home": 13,
+  "refuse": 24,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:35.098Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:35.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7071c5d4fcc514f23c7"
+  },
+  "report": {
+    "$oid": "6881d7071c5d4fcc514f23c5"
+  },
+  "canceled_bef_delivery": 14,
+  "no_cash_available": 18,
+  "postpone": 22,
+  "not_at_home": 11,
+  "refuse": 22,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:35.519Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:35.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7071c5d4fcc514f23cb"
+  },
+  "report": {
+    "$oid": "6881d7071c5d4fcc514f23c9"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 19,
+  "postpone": 36,
+  "not_at_home": 13,
+  "refuse": 17,
+  "unreachable": 15,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:35.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:35.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7081c5d4fcc514f23cf"
+  },
+  "report": {
+    "$oid": "6881d7081c5d4fcc514f23cd"
+  },
+  "canceled_bef_delivery": 6,
+  "no_cash_available": 0,
+  "postpone": 41,
+  "not_at_home": 50,
+  "refuse": 6,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:36.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:36.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7081c5d4fcc514f23d3"
+  },
+  "report": {
+    "$oid": "6881d7081c5d4fcc514f23d1"
+  },
+  "canceled_bef_delivery": 17,
+  "no_cash_available": 30,
+  "postpone": 30,
+  "not_at_home": 7,
+  "refuse": 15,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:36.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:36.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7091c5d4fcc514f23d7"
+  },
+  "report": {
+    "$oid": "6881d7081c5d4fcc514f23d5"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 0,
+  "postpone": 25,
+  "not_at_home": 30,
+  "refuse": 15,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:37.204Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:37.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881d7091c5d4fcc514f23db"
+  },
+  "report": {
+    "$oid": "6881d7091c5d4fcc514f23d9"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 2,
+  "postpone": 22,
+  "not_at_home": 30,
+  "refuse": 20,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T06:47:37.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T06:47:37.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881da3b1c5d4fcc514f2401"
+  },
+  "report": {
+    "$oid": "6881da3a1c5d4fcc514f23ff"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 3,
+  "postpone": 14,
+  "not_at_home": 59,
+  "refuse": 13,
+  "unreachable": 15,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T07:01:15.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T07:01:15.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881da3b1c5d4fcc514f2405"
+  },
+  "report": {
+    "$oid": "6881da3b1c5d4fcc514f2403"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 31,
+  "postpone": 8,
+  "not_at_home": 60,
+  "refuse": 38,
+  "unreachable": 32,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T07:01:15.579Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T07:01:15.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881da3b1c5d4fcc514f2409"
+  },
+  "report": {
+    "$oid": "6881da3b1c5d4fcc514f2407"
+  },
+  "canceled_bef_delivery": 3,
+  "no_cash_available": 38,
+  "postpone": 25,
+  "not_at_home": 49,
+  "refuse": 12,
+  "unreachable": 41,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T07:01:15.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T07:01:15.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881da3c1c5d4fcc514f240d"
+  },
+  "report": {
+    "$oid": "6881da3c1c5d4fcc514f240b"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 30,
+  "postpone": 10,
+  "not_at_home": 90,
+  "refuse": 32,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T07:01:16.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T07:01:16.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881f93980bbd6ea620dbf86"
+  },
+  "report": {
+    "$oid": "6881f93980bbd6ea620dbf84"
+  },
+  "canceled_bef_delivery": 22,
+  "no_cash_available": 7,
+  "postpone": 150,
+  "not_at_home": 30,
+  "refuse": 0,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T09:13:29.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T09:13:29.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881f93a80bbd6ea620dbf8a"
+  },
+  "report": {
+    "$oid": "6881f93a80bbd6ea620dbf88"
+  },
+  "canceled_bef_delivery": 22,
+  "no_cash_available": 10,
+  "postpone": 37,
+  "not_at_home": 5,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 5,
+  "createdAt": {
+    "$date": "2025-07-24T09:13:30.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T09:13:30.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881f93a80bbd6ea620dbf8e"
+  },
+  "report": {
+    "$oid": "6881f93a80bbd6ea620dbf8c"
+  },
+  "canceled_bef_delivery": 26,
+  "no_cash_available": 20,
+  "postpone": 50,
+  "not_at_home": 10,
+  "refuse": 0,
+  "unreachable": 20,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-07-24T09:13:30.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T09:13:30.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881f93b80bbd6ea620dbf92"
+  },
+  "report": {
+    "$oid": "6881f93a80bbd6ea620dbf90"
+  },
+  "canceled_bef_delivery": 66,
+  "no_cash_available": 5,
+  "postpone": 23,
+  "not_at_home": 10,
+  "refuse": 0,
+  "unreachable": 5,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T09:13:31.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T09:13:31.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6881f93b80bbd6ea620dbf96"
+  },
+  "report": {
+    "$oid": "6881f93b80bbd6ea620dbf94"
+  },
+  "canceled_bef_delivery": 72,
+  "no_cash_available": 4,
+  "postpone": 40,
+  "not_at_home": 20,
+  "refuse": 0,
+  "unreachable": 3,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-24T09:13:31.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-24T09:13:31.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688843440c351a2bd4c95516"
+  },
+  "report": {
+    "$oid": "688843440c351a2bd4c95514"
+  },
+  "canceled_bef_delivery": 13,
+  "no_cash_available": 30,
+  "postpone": 30,
+  "not_at_home": 0,
+  "refuse": 13,
+  "unreachable": 9,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T03:43:00.440Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:43:00.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688843440c351a2bd4c9551a"
+  },
+  "report": {
+    "$oid": "688843440c351a2bd4c95518"
+  },
+  "canceled_bef_delivery": 105,
+  "no_cash_available": 14,
+  "postpone": 266,
+  "not_at_home": 102,
+  "refuse": 174,
+  "unreachable": 28,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-29T03:43:00.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:43:00.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688843450c351a2bd4c9551e"
+  },
+  "report": {
+    "$oid": "688843450c351a2bd4c9551c"
+  },
+  "canceled_bef_delivery": 89,
+  "no_cash_available": 5,
+  "postpone": 70,
+  "not_at_home": 27,
+  "refuse": 92,
+  "unreachable": 17,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-07-29T03:43:01.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:43:01.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688845fdf79e7d18e91b030e"
+  },
+  "report": {
+    "$oid": "688845fdf79e7d18e91b030c"
+  },
+  "canceled_bef_delivery": 61,
+  "no_cash_available": 12,
+  "postpone": 105,
+  "not_at_home": 67,
+  "refuse": 107,
+  "unreachable": 28,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-07-29T03:54:37.762Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:54:37.762Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688845fef79e7d18e91b0312"
+  },
+  "report": {
+    "$oid": "688845fdf79e7d18e91b0310"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 15,
+  "postpone": 62,
+  "not_at_home": 15,
+  "refuse": 23,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T03:54:38.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:54:38.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688845fef79e7d18e91b0316"
+  },
+  "report": {
+    "$oid": "688845fef79e7d18e91b0314"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 13,
+  "postpone": 22,
+  "not_at_home": 18,
+  "refuse": 11,
+  "unreachable": 32,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T03:54:38.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:54:38.596Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688845fff79e7d18e91b031a"
+  },
+  "report": {
+    "$oid": "688845fef79e7d18e91b0318"
+  },
+  "canceled_bef_delivery": 14,
+  "no_cash_available": 0,
+  "postpone": 186,
+  "not_at_home": 28,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T03:54:39.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:54:39.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688845fff79e7d18e91b031e"
+  },
+  "report": {
+    "$oid": "688845fff79e7d18e91b031c"
+  },
+  "canceled_bef_delivery": 17,
+  "no_cash_available": 24,
+  "postpone": 35,
+  "not_at_home": 45,
+  "refuse": 21,
+  "unreachable": 62,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T03:54:39.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T03:54:39.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884918f79e7d18e91b0339"
+  },
+  "report": {
+    "$oid": "68884918f79e7d18e91b0337"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 13,
+  "postpone": 28,
+  "not_at_home": 59,
+  "refuse": 36,
+  "unreachable": 28,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:07:52.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:07:52.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884919f79e7d18e91b033d"
+  },
+  "report": {
+    "$oid": "68884918f79e7d18e91b033b"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 21,
+  "postpone": 19,
+  "not_at_home": 92,
+  "refuse": 30,
+  "unreachable": 25,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:07:53.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:07:53.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884919f79e7d18e91b0341"
+  },
+  "report": {
+    "$oid": "68884919f79e7d18e91b033f"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 9,
+  "postpone": 14,
+  "not_at_home": 66,
+  "refuse": 33,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:07:53.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:07:53.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884919f79e7d18e91b0345"
+  },
+  "report": {
+    "$oid": "68884919f79e7d18e91b0343"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 31,
+  "postpone": 22,
+  "not_at_home": 85,
+  "refuse": 28,
+  "unreachable": 14,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:07:53.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:07:53.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6888491af79e7d18e91b0349"
+  },
+  "report": {
+    "$oid": "6888491af79e7d18e91b0347"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 26,
+  "postpone": 50,
+  "not_at_home": 98,
+  "refuse": 61,
+  "unreachable": 30,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:07:54.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:07:54.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884d8d7d6147fd70eb91ea"
+  },
+  "report": {
+    "$oid": "68884d8d7d6147fd70eb91e8"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-07-29T04:26:53.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:26:53.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68884d8e7d6147fd70eb91ee"
+  },
+  "report": {
+    "$oid": "68884d8e7d6147fd70eb91ec"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 7,
+  "postpone": 57,
+  "not_at_home": 29,
+  "refuse": 18,
+  "unreachable": 9,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-07-29T04:26:54.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-29T04:26:54.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6466a1e79f35f1fe77e"
+  },
+  "report": {
+    "$oid": "6891b6456a1e79f35f1fe77c"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 19,
+  "postpone": 46,
+  "not_at_home": 71,
+  "refuse": 56,
+  "unreachable": 34,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:06.001Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:06.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6466a1e79f35f1fe782"
+  },
+  "report": {
+    "$oid": "6891b6466a1e79f35f1fe780"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 20,
+  "postpone": 37,
+  "not_at_home": 55,
+  "refuse": 25,
+  "unreachable": 30,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:06.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:06.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6466a1e79f35f1fe786"
+  },
+  "report": {
+    "$oid": "6891b6466a1e79f35f1fe784"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 27,
+  "postpone": 31,
+  "not_at_home": 69,
+  "refuse": 44,
+  "unreachable": 31,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:06.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:06.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6476a1e79f35f1fe78a"
+  },
+  "report": {
+    "$oid": "6891b6476a1e79f35f1fe788"
+  },
+  "canceled_bef_delivery": 11,
+  "no_cash_available": 29,
+  "postpone": 43,
+  "not_at_home": 104,
+  "refuse": 39,
+  "unreachable": 39,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:07.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:07.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6476a1e79f35f1fe78e"
+  },
+  "report": {
+    "$oid": "6891b6476a1e79f35f1fe78c"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 16,
+  "postpone": 13,
+  "not_at_home": 87,
+  "refuse": 28,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:07.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:07.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6486a1e79f35f1fe792"
+  },
+  "report": {
+    "$oid": "6891b6476a1e79f35f1fe790"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 5,
+  "postpone": 10,
+  "not_at_home": 58,
+  "refuse": 19,
+  "unreachable": 6,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:08.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:08.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b6486a1e79f35f1fe796"
+  },
+  "report": {
+    "$oid": "6891b6486a1e79f35f1fe794"
+  },
+  "canceled_bef_delivery": 9,
+  "no_cash_available": 44,
+  "postpone": 30,
+  "not_at_home": 87,
+  "refuse": 32,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:44:08.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:44:08.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b9797692937741505041"
+  },
+  "report": {
+    "$oid": "6891b979769293774150503e"
+  },
+  "canceled_bef_delivery": 88,
+  "no_cash_available": 15,
+  "postpone": 173,
+  "not_at_home": 92,
+  "refuse": 149,
+  "unreachable": 48,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:57:45.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:57:45.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b9797692937741505045"
+  },
+  "report": {
+    "$oid": "6891b9797692937741505043"
+  },
+  "canceled_bef_delivery": 58,
+  "no_cash_available": 5,
+  "postpone": 67,
+  "not_at_home": 52,
+  "refuse": 139,
+  "unreachable": 20,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-08-05T07:57:45.828Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:57:45.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b97a7692937741505049"
+  },
+  "report": {
+    "$oid": "6891b97a7692937741505047"
+  },
+  "canceled_bef_delivery": 80,
+  "no_cash_available": 9,
+  "postpone": 221,
+  "not_at_home": 101,
+  "refuse": 167,
+  "unreachable": 29,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-08-05T07:57:46.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:57:46.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891b97a769293774150504d"
+  },
+  "report": {
+    "$oid": "6891b97a769293774150504b"
+  },
+  "canceled_bef_delivery": 82,
+  "no_cash_available": 13,
+  "postpone": 68,
+  "not_at_home": 65,
+  "refuse": 117,
+  "unreachable": 16,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T07:57:46.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T07:57:46.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c0b6cb526f8d301b160f"
+  },
+  "report": {
+    "$oid": "6891c0b5cb526f8d301b160d"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 18,
+  "postpone": 33,
+  "not_at_home": 21,
+  "refuse": 35,
+  "unreachable": 28,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T08:28:38.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:28:38.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c0b6cb526f8d301b1613"
+  },
+  "report": {
+    "$oid": "6891c0b6cb526f8d301b1611"
+  },
+  "canceled_bef_delivery": 18,
+  "no_cash_available": 5,
+  "postpone": 35,
+  "not_at_home": 28,
+  "refuse": 34,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T08:28:38.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:28:38.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c0b7cb526f8d301b1617"
+  },
+  "report": {
+    "$oid": "6891c0b6cb526f8d301b1615"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 2,
+  "postpone": 28,
+  "not_at_home": 13,
+  "refuse": 21,
+  "unreachable": 30,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-08-05T08:28:39.004Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:28:39.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6891c0b7cb526f8d301b161b"
+  },
+  "report": {
+    "$oid": "6891c0b7cb526f8d301b1619"
+  },
+  "canceled_bef_delivery": 18,
+  "no_cash_available": 13,
+  "postpone": 41,
+  "not_at_home": 31,
+  "refuse": 30,
+  "unreachable": 44,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-05T08:28:39.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T08:28:39.430Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aecfa9f7bbe5c4f7dad"
+  },
+  "report": {
+    "$oid": "68930aecfa9f7bbe5c4f7dab"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 59,
+  "postpone": 149,
+  "not_at_home": 67,
+  "refuse": 19,
+  "unreachable": 59,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:32.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:32.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aecfa9f7bbe5c4f7db1"
+  },
+  "report": {
+    "$oid": "68930aecfa9f7bbe5c4f7daf"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 47,
+  "postpone": 94,
+  "not_at_home": 59,
+  "refuse": 15,
+  "unreachable": 29,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:32.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:32.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aedfa9f7bbe5c4f7db5"
+  },
+  "report": {
+    "$oid": "68930aedfa9f7bbe5c4f7db3"
+  },
+  "canceled_bef_delivery": 17,
+  "no_cash_available": 48,
+  "postpone": 68,
+  "not_at_home": 41,
+  "refuse": 0,
+  "unreachable": 18,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:33.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:33.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aedfa9f7bbe5c4f7db9"
+  },
+  "report": {
+    "$oid": "68930aedfa9f7bbe5c4f7db7"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 8,
+  "postpone": 31,
+  "not_at_home": 12,
+  "refuse": 3,
+  "unreachable": 4,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:33.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:33.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aeefa9f7bbe5c4f7dbd"
+  },
+  "report": {
+    "$oid": "68930aedfa9f7bbe5c4f7dbb"
+  },
+  "canceled_bef_delivery": 91,
+  "no_cash_available": 200,
+  "postpone": 30,
+  "not_at_home": 27,
+  "refuse": 10,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:34.212Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:34.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68930aeefa9f7bbe5c4f7dc1"
+  },
+  "report": {
+    "$oid": "68930aeefa9f7bbe5c4f7dbf"
+  },
+  "canceled_bef_delivery": 141,
+  "no_cash_available": 50,
+  "postpone": 8,
+  "not_at_home": 0,
+  "refuse": 25,
+  "unreachable": 25,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T07:57:34.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T07:57:34.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6893e48bb9b3cd99e4f1f5c0"
+  },
+  "report": {
+    "$oid": "6893e48bb9b3cd99e4f1f5be"
+  },
+  "canceled_bef_delivery": 6,
+  "no_cash_available": 23,
+  "postpone": 31,
+  "not_at_home": 98,
+  "refuse": 23,
+  "unreachable": 18,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T23:26:03.313Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T23:26:03.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6893e48bb9b3cd99e4f1f5c4"
+  },
+  "report": {
+    "$oid": "6893e48bb9b3cd99e4f1f5c2"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 16,
+  "postpone": 25,
+  "not_at_home": 75,
+  "refuse": 33,
+  "unreachable": 21,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-06T23:26:03.735Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-06T23:26:03.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899a5692c8a245592cebd09"
+  },
+  "report": {
+    "$oid": "6899a5692c8a245592cebd06"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 21,
+  "postpone": 42,
+  "not_at_home": 87,
+  "refuse": 26,
+  "unreachable": 23,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-11T08:10:17.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T08:10:17.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899a56a2c8a245592cebd0d"
+  },
+  "report": {
+    "$oid": "6899a5692c8a245592cebd0b"
+  },
+  "canceled_bef_delivery": 3,
+  "no_cash_available": 31,
+  "postpone": 18,
+  "not_at_home": 121,
+  "refuse": 29,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-11T08:10:18.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T08:10:18.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899a56a2c8a245592cebd11"
+  },
+  "report": {
+    "$oid": "6899a56a2c8a245592cebd0f"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 16,
+  "postpone": 18,
+  "not_at_home": 82,
+  "refuse": 19,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-11T08:10:18.583Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T08:10:18.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6899a56b2c8a245592cebd15"
+  },
+  "report": {
+    "$oid": "6899a56a2c8a245592cebd13"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-11T08:10:19.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-11T08:10:19.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689bed6fe056be63b55e22f3"
+  },
+  "report": {
+    "$oid": "689bed6fe056be63b55e22f1"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 4,
+  "postpone": 38,
+  "not_at_home": 19,
+  "refuse": 53,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:42:07.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:42:07.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689bed6fe056be63b55e22f7"
+  },
+  "report": {
+    "$oid": "689bed6fe056be63b55e22f5"
+  },
+  "canceled_bef_delivery": 65,
+  "no_cash_available": 4,
+  "postpone": 69,
+  "not_at_home": 56,
+  "refuse": 67,
+  "unreachable": 22,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-08-13T01:42:07.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:42:07.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689bed70e056be63b55e22fb"
+  },
+  "report": {
+    "$oid": "689bed6fe056be63b55e22f9"
+  },
+  "canceled_bef_delivery": 95,
+  "no_cash_available": 17,
+  "postpone": 227,
+  "not_at_home": 109,
+  "refuse": 129,
+  "unreachable": 39,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-08-13T01:42:08.149Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:42:08.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689bed70e056be63b55e22ff"
+  },
+  "report": {
+    "$oid": "689bed70e056be63b55e22fd"
+  },
+  "canceled_bef_delivery": 43,
+  "no_cash_available": 5,
+  "postpone": 48,
+  "not_at_home": 97,
+  "refuse": 64,
+  "unreachable": 33,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-08-13T01:42:08.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:42:08.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea7198ee02e0e67c93f"
+  },
+  "report": {
+    "$oid": "689beea7198ee02e0e67c93d"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 13,
+  "postpone": 44,
+  "not_at_home": 22,
+  "refuse": 15,
+  "unreachable": 23,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:19.485Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:19.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea7198ee02e0e67c943"
+  },
+  "report": {
+    "$oid": "689beea7198ee02e0e67c941"
+  },
+  "canceled_bef_delivery": 18,
+  "no_cash_available": 0,
+  "postpone": 98,
+  "not_at_home": 34,
+  "refuse": 10,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:19.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:19.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea8198ee02e0e67c947"
+  },
+  "report": {
+    "$oid": "689beea8198ee02e0e67c945"
+  },
+  "canceled_bef_delivery": 14,
+  "no_cash_available": 0,
+  "postpone": 55,
+  "not_at_home": 50,
+  "refuse": 15,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:20.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:20.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea8198ee02e0e67c94b"
+  },
+  "report": {
+    "$oid": "689beea8198ee02e0e67c949"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 35,
+  "postpone": 43,
+  "not_at_home": 0,
+  "refuse": 27,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:20.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:20.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea9198ee02e0e67c94f"
+  },
+  "report": {
+    "$oid": "689beea8198ee02e0e67c94d"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 5,
+  "postpone": 41,
+  "not_at_home": 10,
+  "refuse": 13,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:21.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:21.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beea9198ee02e0e67c953"
+  },
+  "report": {
+    "$oid": "689beea9198ee02e0e67c951"
+  },
+  "canceled_bef_delivery": 27,
+  "no_cash_available": 27,
+  "postpone": 58,
+  "not_at_home": 12,
+  "refuse": 26,
+  "unreachable": 34,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:47:21.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:47:21.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beff3e056be63b55e2316"
+  },
+  "report": {
+    "$oid": "689beff3e056be63b55e2314"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 68,
+  "postpone": 65,
+  "not_at_home": 31,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:52:51.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:52:51.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beff3e056be63b55e231a"
+  },
+  "report": {
+    "$oid": "689beff3e056be63b55e2318"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 43,
+  "postpone": 65,
+  "not_at_home": 25,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:52:51.855Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:52:51.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beff4e056be63b55e231e"
+  },
+  "report": {
+    "$oid": "689beff4e056be63b55e231c"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:52:52.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:52:52.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689beff4e056be63b55e2322"
+  },
+  "report": {
+    "$oid": "689beff4e056be63b55e2320"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-13T01:52:52.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-13T01:52:52.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c3f5c139cccf4904ab"
+  },
+  "report": {
+    "$oid": "68a579c3f5c139cccf4904a9"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 11,
+  "postpone": 19,
+  "not_at_home": 178,
+  "refuse": 42,
+  "unreachable": 26,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:15.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:15.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c4f5c139cccf4904af"
+  },
+  "report": {
+    "$oid": "68a579c3f5c139cccf4904ad"
+  },
+  "canceled_bef_delivery": 8,
+  "no_cash_available": 25,
+  "postpone": 37,
+  "not_at_home": 102,
+  "refuse": 38,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:16.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:16.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c4f5c139cccf4904b3"
+  },
+  "report": {
+    "$oid": "68a579c4f5c139cccf4904b1"
+  },
+  "canceled_bef_delivery": 8,
+  "no_cash_available": 27,
+  "postpone": 32,
+  "not_at_home": 104,
+  "refuse": 63,
+  "unreachable": 35,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:16.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:16.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c4f5c139cccf4904b7"
+  },
+  "report": {
+    "$oid": "68a579c4f5c139cccf4904b5"
+  },
+  "canceled_bef_delivery": 8,
+  "no_cash_available": 10,
+  "postpone": 26,
+  "not_at_home": 80,
+  "refuse": 36,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:16.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:16.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c5f5c139cccf4904bb"
+  },
+  "report": {
+    "$oid": "68a579c5f5c139cccf4904b9"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 4,
+  "postpone": 33,
+  "not_at_home": 82,
+  "refuse": 30,
+  "unreachable": 23,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:17.285Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:17.285Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c5f5c139cccf4904bf"
+  },
+  "report": {
+    "$oid": "68a579c5f5c139cccf4904bd"
+  },
+  "canceled_bef_delivery": 2,
+  "no_cash_available": 7,
+  "postpone": 19,
+  "not_at_home": 127,
+  "refuse": 28,
+  "unreachable": 16,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:17.693Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:17.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c6f5c139cccf4904c3"
+  },
+  "report": {
+    "$oid": "68a579c5f5c139cccf4904c1"
+  },
+  "canceled_bef_delivery": 4,
+  "no_cash_available": 24,
+  "postpone": 16,
+  "not_at_home": 45,
+  "refuse": 18,
+  "unreachable": 2,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:18.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:18.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a579c6f5c139cccf4904c7"
+  },
+  "report": {
+    "$oid": "68a579c6f5c139cccf4904c5"
+  },
+  "canceled_bef_delivery": 4,
+  "no_cash_available": 26,
+  "postpone": 33,
+  "not_at_home": 143,
+  "refuse": 45,
+  "unreachable": 22,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:31:18.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:31:18.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57b23f5c139cccf4904dc"
+  },
+  "report": {
+    "$oid": "68a57b23f5c139cccf4904da"
+  },
+  "canceled_bef_delivery": 81,
+  "no_cash_available": 20,
+  "postpone": 160,
+  "not_at_home": 21,
+  "refuse": 0,
+  "unreachable": 20,
+  "invalid_address": 10,
+  "createdAt": {
+    "$date": "2025-08-20T07:37:07.266Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:37:07.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57b23f5c139cccf4904e0"
+  },
+  "report": {
+    "$oid": "68a57b23f5c139cccf4904de"
+  },
+  "canceled_bef_delivery": 101,
+  "no_cash_available": 20,
+  "postpone": 70,
+  "not_at_home": 9,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 10,
+  "createdAt": {
+    "$date": "2025-08-20T07:37:07.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:37:07.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57b24f5c139cccf4904e4"
+  },
+  "report": {
+    "$oid": "68a57b23f5c139cccf4904e2"
+  },
+  "canceled_bef_delivery": 87,
+  "no_cash_available": 25,
+  "postpone": 90,
+  "not_at_home": 10,
+  "refuse": 0,
+  "unreachable": 25,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:37:08.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:37:08.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57b24f5c139cccf4904e8"
+  },
+  "report": {
+    "$oid": "68a57b24f5c139cccf4904e6"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:37:08.553Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:37:08.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca2578b9ab1d6125cbe"
+  },
+  "report": {
+    "$oid": "68a57ca1578b9ab1d6125cbc"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 0,
+  "postpone": 98,
+  "not_at_home": 26,
+  "refuse": 28,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:30.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:30.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca2578b9ab1d6125cc2"
+  },
+  "report": {
+    "$oid": "68a57ca2578b9ab1d6125cc0"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 10,
+  "postpone": 33,
+  "not_at_home": 28,
+  "refuse": 20,
+  "unreachable": 36,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:30.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:30.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca3578b9ab1d6125cc6"
+  },
+  "report": {
+    "$oid": "68a57ca2578b9ab1d6125cc4"
+  },
+  "canceled_bef_delivery": 13,
+  "no_cash_available": 13,
+  "postpone": 44,
+  "not_at_home": 28,
+  "refuse": 33,
+  "unreachable": 7,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:31.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:31.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca3578b9ab1d6125cca"
+  },
+  "report": {
+    "$oid": "68a57ca3578b9ab1d6125cc8"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 2,
+  "postpone": 38,
+  "not_at_home": 58,
+  "refuse": 22,
+  "unreachable": 9,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:31.469Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:31.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca3578b9ab1d6125cce"
+  },
+  "report": {
+    "$oid": "68a57ca3578b9ab1d6125ccc"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 2,
+  "postpone": 38,
+  "not_at_home": 16,
+  "refuse": 19,
+  "unreachable": 41,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:31.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:31.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca4578b9ab1d6125cd2"
+  },
+  "report": {
+    "$oid": "68a57ca4578b9ab1d6125cd0"
+  },
+  "canceled_bef_delivery": 9,
+  "no_cash_available": 52,
+  "postpone": 289,
+  "not_at_home": 56,
+  "refuse": 46,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:32.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:32.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57ca4578b9ab1d6125cd6"
+  },
+  "report": {
+    "$oid": "68a57ca4578b9ab1d6125cd4"
+  },
+  "canceled_bef_delivery": 28,
+  "no_cash_available": 28,
+  "postpone": 33,
+  "not_at_home": 45,
+  "refuse": 27,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:43:32.749Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:43:32.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57db7f5c139cccf490507"
+  },
+  "report": {
+    "$oid": "68a57db7f5c139cccf490505"
+  },
+  "canceled_bef_delivery": 75,
+  "no_cash_available": 8,
+  "postpone": 58,
+  "not_at_home": 39,
+  "refuse": 91,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:48:07.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:48:07.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57db7f5c139cccf49050b"
+  },
+  "report": {
+    "$oid": "68a57db7f5c139cccf490509"
+  },
+  "canceled_bef_delivery": 89,
+  "no_cash_available": 23,
+  "postpone": 190,
+  "not_at_home": 109,
+  "refuse": 131,
+  "unreachable": 36,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:48:07.665Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:48:07.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57db8f5c139cccf49050f"
+  },
+  "report": {
+    "$oid": "68a57db7f5c139cccf49050d"
+  },
+  "canceled_bef_delivery": 127,
+  "no_cash_available": 5,
+  "postpone": 209,
+  "not_at_home": 72,
+  "refuse": 173,
+  "unreachable": 60,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-08-20T07:48:08.092Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:48:08.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57db8f5c139cccf490513"
+  },
+  "report": {
+    "$oid": "68a57db8f5c139cccf490511"
+  },
+  "canceled_bef_delivery": 82,
+  "no_cash_available": 7,
+  "postpone": 187,
+  "not_at_home": 114,
+  "refuse": 165,
+  "unreachable": 49,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-08-20T07:48:08.518Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:48:08.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a57db8f5c139cccf490517"
+  },
+  "report": {
+    "$oid": "68a57db8f5c139cccf490515"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 37,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-20T07:48:08.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-20T07:48:08.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb199329a302ee47563"
+  },
+  "report": {
+    "$oid": "68a7ebb199329a302ee47561"
+  },
+  "canceled_bef_delivery": 79,
+  "no_cash_available": 50,
+  "postpone": 49,
+  "not_at_home": 30,
+  "refuse": 0,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:53.791Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:53.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb299329a302ee47567"
+  },
+  "report": {
+    "$oid": "68a7ebb299329a302ee47565"
+  },
+  "canceled_bef_delivery": 76,
+  "no_cash_available": 10,
+  "postpone": 66,
+  "not_at_home": 30,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:54.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:54.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb299329a302ee4756b"
+  },
+  "report": {
+    "$oid": "68a7ebb299329a302ee47569"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:54.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:54.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb399329a302ee4756f"
+  },
+  "report": {
+    "$oid": "68a7ebb299329a302ee4756d"
+  },
+  "canceled_bef_delivery": 67,
+  "no_cash_available": 53,
+  "postpone": 55,
+  "not_at_home": 5,
+  "refuse": 0,
+  "unreachable": 50,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:55.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:55.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb399329a302ee47573"
+  },
+  "report": {
+    "$oid": "68a7ebb399329a302ee47571"
+  },
+  "canceled_bef_delivery": 91,
+  "no_cash_available": 50,
+  "postpone": 216,
+  "not_at_home": 30,
+  "refuse": 0,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:55.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:55.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a7ebb399329a302ee47577"
+  },
+  "report": {
+    "$oid": "68a7ebb399329a302ee47575"
+  },
+  "canceled_bef_delivery": 123,
+  "no_cash_available": 40,
+  "postpone": 50,
+  "not_at_home": 92,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-22T04:01:55.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-22T04:01:55.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae991d45dedf33dc4bc1ba"
+  },
+  "report": {
+    "$oid": "68ae991c45dedf33dc4bc1b8"
+  },
+  "canceled_bef_delivery": 100,
+  "no_cash_available": 25,
+  "postpone": 72,
+  "not_at_home": 20,
+  "refuse": 0,
+  "unreachable": 15,
+  "invalid_address": 10,
+  "createdAt": {
+    "$date": "2025-08-27T05:35:25.189Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:35:25.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae991d45dedf33dc4bc1be"
+  },
+  "report": {
+    "$oid": "68ae991d45dedf33dc4bc1bc"
+  },
+  "canceled_bef_delivery": 57,
+  "no_cash_available": 15,
+  "postpone": 35,
+  "not_at_home": 5,
+  "refuse": 0,
+  "unreachable": 5,
+  "invalid_address": 5,
+  "createdAt": {
+    "$date": "2025-08-27T05:35:25.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:35:25.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae991e45dedf33dc4bc1c2"
+  },
+  "report": {
+    "$oid": "68ae991d45dedf33dc4bc1c0"
+  },
+  "canceled_bef_delivery": 34,
+  "no_cash_available": 20,
+  "postpone": 95,
+  "not_at_home": 35,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 5,
+  "createdAt": {
+    "$date": "2025-08-27T05:35:26.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:35:26.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae991e45dedf33dc4bc1c6"
+  },
+  "report": {
+    "$oid": "68ae991e45dedf33dc4bc1c4"
+  },
+  "canceled_bef_delivery": 91,
+  "no_cash_available": 20,
+  "postpone": 120,
+  "not_at_home": 30,
+  "refuse": 0,
+  "unreachable": 15,
+  "invalid_address": 5,
+  "createdAt": {
+    "$date": "2025-08-27T05:35:26.461Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:35:26.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b20061c00a40a8e43e8"
+  },
+  "report": {
+    "$oid": "68ae9b1f061c00a40a8e43e6"
+  },
+  "canceled_bef_delivery": 11,
+  "no_cash_available": 12,
+  "postpone": 3,
+  "not_at_home": 99,
+  "refuse": 34,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:00.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:00.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b20061c00a40a8e43ec"
+  },
+  "report": {
+    "$oid": "68ae9b20061c00a40a8e43ea"
+  },
+  "canceled_bef_delivery": 4,
+  "no_cash_available": 14,
+  "postpone": 38,
+  "not_at_home": 104,
+  "refuse": 43,
+  "unreachable": 29,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:00.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:00.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b20061c00a40a8e43f0"
+  },
+  "report": {
+    "$oid": "68ae9b20061c00a40a8e43ee"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 7,
+  "postpone": 22,
+  "not_at_home": 117,
+  "refuse": 40,
+  "unreachable": 13,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:00.942Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:00.942Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b21061c00a40a8e43f4"
+  },
+  "report": {
+    "$oid": "68ae9b21061c00a40a8e43f2"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 5,
+  "postpone": 11,
+  "not_at_home": 88,
+  "refuse": 34,
+  "unreachable": 20,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:01.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:01.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b21061c00a40a8e43f8"
+  },
+  "report": {
+    "$oid": "68ae9b21061c00a40a8e43f6"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 3,
+  "postpone": 150,
+  "not_at_home": 111,
+  "refuse": 42,
+  "unreachable": 9,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:01.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:01.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b22061c00a40a8e43fc"
+  },
+  "report": {
+    "$oid": "68ae9b21061c00a40a8e43fa"
+  },
+  "canceled_bef_delivery": 2,
+  "no_cash_available": 0,
+  "postpone": 10,
+  "not_at_home": 54,
+  "refuse": 13,
+  "unreachable": 1,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:02.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:02.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b22061c00a40a8e4400"
+  },
+  "report": {
+    "$oid": "68ae9b22061c00a40a8e43fe"
+  },
+  "canceled_bef_delivery": 7,
+  "no_cash_available": 21,
+  "postpone": 32,
+  "not_at_home": 92,
+  "refuse": 36,
+  "unreachable": 16,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:02.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:02.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9b23061c00a40a8e4404"
+  },
+  "report": {
+    "$oid": "68ae9b22061c00a40a8e4402"
+  },
+  "canceled_bef_delivery": 14,
+  "no_cash_available": 9,
+  "postpone": 41,
+  "not_at_home": 98,
+  "refuse": 59,
+  "unreachable": 25,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:44:03.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:44:03.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9cef061c00a40a8e4416"
+  },
+  "report": {
+    "$oid": "68ae9cef061c00a40a8e4414"
+  },
+  "canceled_bef_delivery": 83,
+  "no_cash_available": 13,
+  "postpone": 400,
+  "not_at_home": 132,
+  "refuse": 156,
+  "unreachable": 33,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:51:43.321Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:51:43.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9cef061c00a40a8e441a"
+  },
+  "report": {
+    "$oid": "68ae9cef061c00a40a8e4418"
+  },
+  "canceled_bef_delivery": 103,
+  "no_cash_available": 17,
+  "postpone": 92,
+  "not_at_home": 76,
+  "refuse": 97,
+  "unreachable": 41,
+  "invalid_address": 5,
+  "createdAt": {
+    "$date": "2025-08-27T05:51:43.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:51:43.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9cf0061c00a40a8e441e"
+  },
+  "report": {
+    "$oid": "68ae9cef061c00a40a8e441c"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 15,
+  "postpone": 109,
+  "not_at_home": 77,
+  "refuse": 133,
+  "unreachable": 48,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-08-27T05:51:44.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:51:44.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9cf0061c00a40a8e4422"
+  },
+  "report": {
+    "$oid": "68ae9cf0061c00a40a8e4420"
+  },
+  "canceled_bef_delivery": 65,
+  "no_cash_available": 6,
+  "postpone": 108,
+  "not_at_home": 69,
+  "refuse": 90,
+  "unreachable": 29,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-08-27T05:51:44.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:51:44.602Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9cf1061c00a40a8e4426"
+  },
+  "report": {
+    "$oid": "68ae9cf0061c00a40a8e4424"
+  },
+  "canceled_bef_delivery": 105,
+  "no_cash_available": 19,
+  "postpone": 234,
+  "not_at_home": 134,
+  "refuse": 200,
+  "unreachable": 96,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-08-27T05:51:45.029Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:51:45.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2d061c00a40a8e443f"
+  },
+  "report": {
+    "$oid": "68ae9d2c061c00a40a8e443d"
+  },
+  "canceled_bef_delivery": 4,
+  "no_cash_available": 18,
+  "postpone": 102,
+  "not_at_home": 15,
+  "refuse": 31,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:45.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:45.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2d061c00a40a8e4443"
+  },
+  "report": {
+    "$oid": "68ae9d2d061c00a40a8e4441"
+  },
+  "canceled_bef_delivery": 18,
+  "no_cash_available": 12,
+  "postpone": 33,
+  "not_at_home": 55,
+  "refuse": 18,
+  "unreachable": 17,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:45.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:45.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2e061c00a40a8e4447"
+  },
+  "report": {
+    "$oid": "68ae9d2d061c00a40a8e4445"
+  },
+  "canceled_bef_delivery": 35,
+  "no_cash_available": 0,
+  "postpone": 45,
+  "not_at_home": 15,
+  "refuse": 41,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:46.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:46.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2e061c00a40a8e444b"
+  },
+  "report": {
+    "$oid": "68ae9d2e061c00a40a8e4449"
+  },
+  "canceled_bef_delivery": 6,
+  "no_cash_available": 5,
+  "postpone": 75,
+  "not_at_home": 20,
+  "refuse": 13,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:46.459Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:46.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2e061c00a40a8e444f"
+  },
+  "report": {
+    "$oid": "68ae9d2e061c00a40a8e444d"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 3,
+  "postpone": 122,
+  "not_at_home": 18,
+  "refuse": 13,
+  "unreachable": 95,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:46.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:46.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2f061c00a40a8e4453"
+  },
+  "report": {
+    "$oid": "68ae9d2f061c00a40a8e4451"
+  },
+  "canceled_bef_delivery": 22,
+  "no_cash_available": 5,
+  "postpone": 98,
+  "not_at_home": 22,
+  "refuse": 22,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:47.298Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:47.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ae9d2f061c00a40a8e4457"
+  },
+  "report": {
+    "$oid": "68ae9d2f061c00a40a8e4455"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 6,
+  "postpone": 28,
+  "not_at_home": 33,
+  "refuse": 22,
+  "unreachable": 13,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-27T05:52:47.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-27T05:52:47.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4df3a8a26016dee855e54"
+  },
+  "report": {
+    "$oid": "68b4df3a8a26016dee855e52"
+  },
+  "canceled_bef_delivery": 3,
+  "no_cash_available": 10,
+  "postpone": 16,
+  "not_at_home": 155,
+  "refuse": 43,
+  "unreachable": 18,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-08-31T23:48:10.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T23:48:10.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4df3a8a26016dee855e58"
+  },
+  "report": {
+    "$oid": "68b4df3a8a26016dee855e56"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 4,
+  "postpone": 25,
+  "not_at_home": 109,
+  "refuse": 54,
+  "unreachable": 15,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-31T23:48:10.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T23:48:10.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4df3b8a26016dee855e5c"
+  },
+  "report": {
+    "$oid": "68b4df3b8a26016dee855e5a"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 1,
+  "postpone": 20,
+  "not_at_home": 68,
+  "refuse": 27,
+  "unreachable": 38,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-31T23:48:11.346Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T23:48:11.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4df3b8a26016dee855e60"
+  },
+  "report": {
+    "$oid": "68b4df3b8a26016dee855e5e"
+  },
+  "canceled_bef_delivery": 4,
+  "no_cash_available": 1,
+  "postpone": 21,
+  "not_at_home": 86,
+  "refuse": 26,
+  "unreachable": 12,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-31T23:48:11.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T23:48:11.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4df3c8a26016dee855e64"
+  },
+  "report": {
+    "$oid": "68b4df3b8a26016dee855e62"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 11,
+  "not_at_home": 60,
+  "refuse": 17,
+  "unreachable": 7,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-08-31T23:48:12.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-31T23:48:12.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e204c323d34e688de31c"
+  },
+  "report": {
+    "$oid": "68b4e203c323d34e688de31a"
+  },
+  "canceled_bef_delivery": 70,
+  "no_cash_available": 10,
+  "postpone": 126,
+  "not_at_home": 54,
+  "refuse": 121,
+  "unreachable": 33,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-01T00:00:04.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:00:04.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e204c323d34e688de320"
+  },
+  "report": {
+    "$oid": "68b4e204c323d34e688de31e"
+  },
+  "canceled_bef_delivery": 89,
+  "no_cash_available": 6,
+  "postpone": 325,
+  "not_at_home": 117,
+  "refuse": 187,
+  "unreachable": 55,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-01T00:00:04.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:00:04.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e205c323d34e688de324"
+  },
+  "report": {
+    "$oid": "68b4e204c323d34e688de322"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 4,
+  "postpone": 6,
+  "not_at_home": 8,
+  "refuse": 17,
+  "unreachable": 2,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T00:00:05.010Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:00:05.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e205c323d34e688de328"
+  },
+  "report": {
+    "$oid": "68b4e205c323d34e688de326"
+  },
+  "canceled_bef_delivery": 98,
+  "no_cash_available": 15,
+  "postpone": 173,
+  "not_at_home": 130,
+  "refuse": 142,
+  "unreachable": 71,
+  "invalid_address": 3,
+  "createdAt": {
+    "$date": "2025-09-01T00:00:05.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:00:05.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e4d2e1c909c81c6edad0"
+  },
+  "report": {
+    "$oid": "68b4e4d1e1c909c81c6edace"
+  },
+  "canceled_bef_delivery": 52,
+  "no_cash_available": 3,
+  "postpone": 55,
+  "not_at_home": 12,
+  "refuse": 63,
+  "unreachable": 21,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T00:12:02.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:12:02.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e4d2e1c909c81c6edad4"
+  },
+  "report": {
+    "$oid": "68b4e4d2e1c909c81c6edad2"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 3,
+  "postpone": 28,
+  "not_at_home": 23,
+  "refuse": 21,
+  "unreachable": 37,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T00:12:02.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:12:02.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e4d2e1c909c81c6edad8"
+  },
+  "report": {
+    "$oid": "68b4e4d2e1c909c81c6edad6"
+  },
+  "canceled_bef_delivery": 9,
+  "no_cash_available": 5,
+  "postpone": 52,
+  "not_at_home": 11,
+  "refuse": 9,
+  "unreachable": 13,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T00:12:02.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:12:02.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b4e4d3e1c909c81c6edadc"
+  },
+  "report": {
+    "$oid": "68b4e4d3e1c909c81c6edada"
+  },
+  "canceled_bef_delivery": 30,
+  "no_cash_available": 0,
+  "postpone": 48,
+  "not_at_home": 7,
+  "refuse": 39,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T00:12:03.350Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T00:12:03.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50f7078ce7462fea55632"
+  },
+  "report": {
+    "$oid": "68b50f7078ce7462fea55630"
+  },
+  "canceled_bef_delivery": 131,
+  "no_cash_available": 35,
+  "postpone": 100,
+  "not_at_home": 20,
+  "refuse": 0,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T03:13:52.906Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T03:13:52.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50f7178ce7462fea55636"
+  },
+  "report": {
+    "$oid": "68b50f7178ce7462fea55634"
+  },
+  "canceled_bef_delivery": 94,
+  "no_cash_available": 7,
+  "postpone": 100,
+  "not_at_home": 3,
+  "refuse": 0,
+  "unreachable": 4,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-09-01T03:13:53.320Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T03:13:53.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50f7178ce7462fea5563a"
+  },
+  "report": {
+    "$oid": "68b50f7178ce7462fea55638"
+  },
+  "canceled_bef_delivery": 64,
+  "no_cash_available": 3,
+  "postpone": 68,
+  "not_at_home": 3,
+  "refuse": 0,
+  "unreachable": 3,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-01T03:13:53.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T03:13:53.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68b50f7278ce7462fea5563e"
+  },
+  "report": {
+    "$oid": "68b50f7178ce7462fea5563c"
+  },
+  "canceled_bef_delivery": 64,
+  "no_cash_available": 20,
+  "postpone": 120,
+  "not_at_home": 20,
+  "refuse": 0,
+  "unreachable": 2,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-01T03:13:54.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-01T03:13:54.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17253cd081689463c24e"
+  },
+  "report": {
+    "$oid": "68be17253cd081689463c24c"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 9,
+  "postpone": 28,
+  "not_at_home": 85,
+  "refuse": 38,
+  "unreachable": 13,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:09.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:09.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17263cd081689463c252"
+  },
+  "report": {
+    "$oid": "68be17253cd081689463c250"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 2,
+  "postpone": 25,
+  "not_at_home": 93,
+  "refuse": 48,
+  "unreachable": 15,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:10.054Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:10.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17263cd081689463c256"
+  },
+  "report": {
+    "$oid": "68be17263cd081689463c254"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 6,
+  "postpone": 12,
+  "not_at_home": 103,
+  "refuse": 42,
+  "unreachable": 14,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:10.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:10.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17263cd081689463c25a"
+  },
+  "report": {
+    "$oid": "68be17263cd081689463c258"
+  },
+  "canceled_bef_delivery": 53,
+  "no_cash_available": 35,
+  "postpone": 21,
+  "not_at_home": 78,
+  "refuse": 32,
+  "unreachable": 14,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:10.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:10.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17273cd081689463c25e"
+  },
+  "report": {
+    "$oid": "68be17273cd081689463c25c"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 2,
+  "postpone": 29,
+  "not_at_home": 122,
+  "refuse": 49,
+  "unreachable": 6,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:11.342Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:11.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be17273cd081689463c262"
+  },
+  "report": {
+    "$oid": "68be17273cd081689463c260"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 29,
+  "postpone": 28,
+  "not_at_home": 46,
+  "refuse": 44,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:37:11.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:37:11.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be189dda6aff1319cbf7c9"
+  },
+  "report": {
+    "$oid": "68be189dda6aff1319cbf7c7"
+  },
+  "canceled_bef_delivery": 104,
+  "no_cash_available": 19,
+  "postpone": 192,
+  "not_at_home": 106,
+  "refuse": 125,
+  "unreachable": 49,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-09-07T23:43:25.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:43:25.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be189dda6aff1319cbf7cd"
+  },
+  "report": {
+    "$oid": "68be189dda6aff1319cbf7cb"
+  },
+  "canceled_bef_delivery": 48,
+  "no_cash_available": 7,
+  "postpone": 78,
+  "not_at_home": 64,
+  "refuse": 121,
+  "unreachable": 28,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-07T23:43:25.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:43:25.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be189eda6aff1319cbf7d1"
+  },
+  "report": {
+    "$oid": "68be189eda6aff1319cbf7cf"
+  },
+  "canceled_bef_delivery": 88,
+  "no_cash_available": 22,
+  "postpone": 122,
+  "not_at_home": 120,
+  "refuse": 120,
+  "unreachable": 57,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:43:26.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:43:26.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be19b53cd081689463c27e"
+  },
+  "report": {
+    "$oid": "68be19b53cd081689463c27c"
+  },
+  "canceled_bef_delivery": 21,
+  "no_cash_available": 3,
+  "postpone": 44,
+  "not_at_home": 23,
+  "refuse": 21,
+  "unreachable": 22,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:48:05.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:48:05.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be19b53cd081689463c282"
+  },
+  "report": {
+    "$oid": "68be19b53cd081689463c280"
+  },
+  "canceled_bef_delivery": 20,
+  "no_cash_available": 0,
+  "postpone": 30,
+  "not_at_home": 20,
+  "refuse": 26,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:48:05.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:48:05.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be19b63cd081689463c286"
+  },
+  "report": {
+    "$oid": "68be19b63cd081689463c284"
+  },
+  "canceled_bef_delivery": 11,
+  "no_cash_available": 3,
+  "postpone": 58,
+  "not_at_home": 28,
+  "refuse": 12,
+  "unreachable": 26,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:48:06.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:48:06.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be19b63cd081689463c28a"
+  },
+  "report": {
+    "$oid": "68be19b63cd081689463c288"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 5,
+  "postpone": 45,
+  "not_at_home": 35,
+  "refuse": 15,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:48:06.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:48:06.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be19b73cd081689463c28e"
+  },
+  "report": {
+    "$oid": "68be19b63cd081689463c28c"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 8,
+  "postpone": 38,
+  "not_at_home": 12,
+  "refuse": 22,
+  "unreachable": 27,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:48:07.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:48:07.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1bde3cd081689463c2a1"
+  },
+  "report": {
+    "$oid": "68be1bde3cd081689463c29f"
+  },
+  "canceled_bef_delivery": 89,
+  "no_cash_available": 10,
+  "postpone": 100,
+  "not_at_home": 5,
+  "refuse": 0,
+  "unreachable": 5,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:18.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:18.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1bdf3cd081689463c2a5"
+  },
+  "report": {
+    "$oid": "68be1bde3cd081689463c2a3"
+  },
+  "canceled_bef_delivery": 28,
+  "no_cash_available": 64,
+  "postpone": 62,
+  "not_at_home": 35,
+  "refuse": 23,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:19.115Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:19.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1bdf3cd081689463c2a9"
+  },
+  "report": {
+    "$oid": "68be1bdf3cd081689463c2a7"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 68,
+  "postpone": 52,
+  "not_at_home": 25,
+  "refuse": 0,
+  "unreachable": 5,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:19.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:19.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1bdf3cd081689463c2ad"
+  },
+  "report": {
+    "$oid": "68be1bdf3cd081689463c2ab"
+  },
+  "canceled_bef_delivery": 12,
+  "no_cash_available": 68,
+  "postpone": 32,
+  "not_at_home": 22,
+  "refuse": 5,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:19.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:19.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1be03cd081689463c2b1"
+  },
+  "report": {
+    "$oid": "68be1be03cd081689463c2af"
+  },
+  "canceled_bef_delivery": 69,
+  "no_cash_available": 5,
+  "postpone": 60,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 4,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:20.387Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:20.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68be1be03cd081689463c2b5"
+  },
+  "report": {
+    "$oid": "68be1be03cd081689463c2b3"
+  },
+  "canceled_bef_delivery": 49,
+  "no_cash_available": 30,
+  "postpone": 100,
+  "not_at_home": 9,
+  "refuse": 0,
+  "unreachable": 5,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-07T23:57:20.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-07T23:57:20.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791bf46a61b6df7ba3c2b"
+  },
+  "report": {
+    "$oid": "68c791bf46a61b6df7ba3c29"
+  },
+  "canceled_bef_delivery": 35,
+  "no_cash_available": 31,
+  "postpone": 33,
+  "not_at_home": 91,
+  "refuse": 22,
+  "unreachable": 17,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:39.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:39.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791bf46a61b6df7ba3c2f"
+  },
+  "report": {
+    "$oid": "68c791bf46a61b6df7ba3c2d"
+  },
+  "canceled_bef_delivery": 9,
+  "no_cash_available": 9,
+  "postpone": 25,
+  "not_at_home": 94,
+  "refuse": 46,
+  "unreachable": 8,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:39.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:39.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791c046a61b6df7ba3c33"
+  },
+  "report": {
+    "$oid": "68c791c046a61b6df7ba3c31"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 19,
+  "postpone": 9,
+  "not_at_home": 153,
+  "refuse": 28,
+  "unreachable": 21,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:40.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:40.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791c046a61b6df7ba3c37"
+  },
+  "report": {
+    "$oid": "68c791c046a61b6df7ba3c35"
+  },
+  "canceled_bef_delivery": 6,
+  "no_cash_available": 8,
+  "postpone": 21,
+  "not_at_home": 80,
+  "refuse": 70,
+  "unreachable": 115,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:40.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:40.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791c146a61b6df7ba3c3b"
+  },
+  "report": {
+    "$oid": "68c791c046a61b6df7ba3c39"
+  },
+  "canceled_bef_delivery": 1,
+  "no_cash_available": 9,
+  "postpone": 15,
+  "not_at_home": 64,
+  "refuse": 34,
+  "unreachable": 9,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:41.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:41.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791c146a61b6df7ba3c3f"
+  },
+  "report": {
+    "$oid": "68c791c146a61b6df7ba3c3d"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 4,
+  "postpone": 46,
+  "not_at_home": 113,
+  "refuse": 42,
+  "unreachable": 19,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:41.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:41.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c791c246a61b6df7ba3c43"
+  },
+  "report": {
+    "$oid": "68c791c146a61b6df7ba3c41"
+  },
+  "canceled_bef_delivery": 7,
+  "no_cash_available": 6,
+  "postpone": 8,
+  "not_at_home": 65,
+  "refuse": 26,
+  "unreachable": 11,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:10:42.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:10:42.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793ac46a61b6df7ba3c59"
+  },
+  "report": {
+    "$oid": "68c793ac46a61b6df7ba3c57"
+  },
+  "canceled_bef_delivery": 67,
+  "no_cash_available": 108,
+  "postpone": 85,
+  "not_at_home": 24,
+  "refuse": 12,
+  "unreachable": 11,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:52.926Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:52.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793ad46a61b6df7ba3c5d"
+  },
+  "report": {
+    "$oid": "68c793ad46a61b6df7ba3c5b"
+  },
+  "canceled_bef_delivery": 144,
+  "no_cash_available": 5,
+  "postpone": 140,
+  "not_at_home": 2,
+  "refuse": 0,
+  "unreachable": 2,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:53.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:53.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793ad46a61b6df7ba3c61"
+  },
+  "report": {
+    "$oid": "68c793ad46a61b6df7ba3c5f"
+  },
+  "canceled_bef_delivery": 87,
+  "no_cash_available": 4,
+  "postpone": 100,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:53.782Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:53.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793ae46a61b6df7ba3c65"
+  },
+  "report": {
+    "$oid": "68c793ad46a61b6df7ba3c63"
+  },
+  "canceled_bef_delivery": 60,
+  "no_cash_available": 6,
+  "postpone": 70,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:54.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:54.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793ae46a61b6df7ba3c69"
+  },
+  "report": {
+    "$oid": "68c793ae46a61b6df7ba3c67"
+  },
+  "canceled_bef_delivery": 35,
+  "no_cash_available": 4,
+  "postpone": 71,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:54.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:54.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c793af46a61b6df7ba3c6d"
+  },
+  "report": {
+    "$oid": "68c793ae46a61b6df7ba3c6b"
+  },
+  "canceled_bef_delivery": 0,
+  "no_cash_available": 0,
+  "postpone": 0,
+  "not_at_home": 0,
+  "refuse": 0,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:18:55.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:18:55.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952346a61b6df7ba3c81"
+  },
+  "report": {
+    "$oid": "68c7952346a61b6df7ba3c7f"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 35,
+  "postpone": 45,
+  "not_at_home": 30,
+  "refuse": 24,
+  "unreachable": 30,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:07.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:07.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952446a61b6df7ba3c85"
+  },
+  "report": {
+    "$oid": "68c7952446a61b6df7ba3c83"
+  },
+  "canceled_bef_delivery": 14,
+  "no_cash_available": 6,
+  "postpone": 98,
+  "not_at_home": 19,
+  "refuse": 14,
+  "unreachable": 64,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:08.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:08.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952446a61b6df7ba3c89"
+  },
+  "report": {
+    "$oid": "68c7952446a61b6df7ba3c87"
+  },
+  "canceled_bef_delivery": 15,
+  "no_cash_available": 0,
+  "postpone": 137,
+  "not_at_home": 20,
+  "refuse": 21,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:08.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:08.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952546a61b6df7ba3c8d"
+  },
+  "report": {
+    "$oid": "68c7952446a61b6df7ba3c8b"
+  },
+  "canceled_bef_delivery": 23,
+  "no_cash_available": 3,
+  "postpone": 32,
+  "not_at_home": 15,
+  "refuse": 15,
+  "unreachable": 24,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:09.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:09.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952546a61b6df7ba3c91"
+  },
+  "report": {
+    "$oid": "68c7952546a61b6df7ba3c8f"
+  },
+  "canceled_bef_delivery": 25,
+  "no_cash_available": 0,
+  "postpone": 42,
+  "not_at_home": 20,
+  "refuse": 32,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:09.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:09.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952546a61b6df7ba3c95"
+  },
+  "report": {
+    "$oid": "68c7952546a61b6df7ba3c93"
+  },
+  "canceled_bef_delivery": 5,
+  "no_cash_available": 0,
+  "postpone": 22,
+  "not_at_home": 30,
+  "refuse": 15,
+  "unreachable": 10,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:09.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:09.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952646a61b6df7ba3c99"
+  },
+  "report": {
+    "$oid": "68c7952646a61b6df7ba3c97"
+  },
+  "canceled_bef_delivery": 8,
+  "no_cash_available": 0,
+  "postpone": 78,
+  "not_at_home": 17,
+  "refuse": 19,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:10.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:10.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7952646a61b6df7ba3c9d"
+  },
+  "report": {
+    "$oid": "68c7952646a61b6df7ba3c9b"
+  },
+  "canceled_bef_delivery": 10,
+  "no_cash_available": 0,
+  "postpone": 53,
+  "not_at_home": 86,
+  "refuse": 18,
+  "unreachable": 0,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-15T04:25:10.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:25:10.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c796dde554ddb3a282d2b3"
+  },
+  "report": {
+    "$oid": "68c796dde554ddb3a282d2b1"
+  },
+  "canceled_bef_delivery": 70,
+  "no_cash_available": 10,
+  "postpone": 139,
+  "not_at_home": 113,
+  "refuse": 80,
+  "unreachable": 41,
+  "invalid_address": 1,
+  "createdAt": {
+    "$date": "2025-09-15T04:32:29.286Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:32:29.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c796dde554ddb3a282d2b7"
+  },
+  "report": {
+    "$oid": "68c796dde554ddb3a282d2b5"
+  },
+  "canceled_bef_delivery": 75,
+  "no_cash_available": 16,
+  "postpone": 154,
+  "not_at_home": 87,
+  "refuse": 138,
+  "unreachable": 65,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-09-15T04:32:29.708Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:32:29.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c796dee554ddb3a282d2bb"
+  },
+  "report": {
+    "$oid": "68c796dde554ddb3a282d2b9"
+  },
+  "canceled_bef_delivery": 83,
+  "no_cash_available": 17,
+  "postpone": 145,
+  "not_at_home": 146,
+  "refuse": 133,
+  "unreachable": 33,
+  "invalid_address": 2,
+  "createdAt": {
+    "$date": "2025-09-15T04:32:30.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:32:30.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c796dee554ddb3a282d2bf"
+  },
+  "report": {
+    "$oid": "68c796dee554ddb3a282d2bd"
+  },
+  "canceled_bef_delivery": 66,
+  "no_cash_available": 12,
+  "postpone": 136,
+  "not_at_home": 126,
+  "refuse": 91,
+  "unreachable": 53,
+  "invalid_address": 4,
+  "createdAt": {
+    "$date": "2025-09-15T04:32:30.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T04:32:30.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c8b65bb794b12e3e6629a7"
+  },
+  "report": {
+    "$oid": "68c8b65bb794b12e3e6629a5"
+  },
+  "canceled_bef_delivery": 65,
+  "no_cash_available": 6,
+  "postpone": 220,
+  "not_at_home": 1,
+  "refuse": 0,
+  "unreachable": 1,
+  "invalid_address": 0,
+  "createdAt": {
+    "$date": "2025-09-16T00:59:07.894Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T00:59:07.894Z"
+  },
+  "__v": 0
+}]
