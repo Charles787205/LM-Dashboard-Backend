@@ -26,4 +26,5 @@ class DashboardCommentController extends Controller
 
         return response()->json($comment, 201);
     }
+
 }

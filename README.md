@@ -1,61 +1,236 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 📊 LM Dashboard Backend
+
+A modern, feature-rich Laravel API for logistics and delivery management with comprehensive dashboard, real-time tracking, and advanced reporting capabilities.
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel" alt="Laravel 12">
+  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square&logo=php" alt="PHP 8.2+">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
 </p>
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## ✨ Features
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### 📱 Dashboard & Analytics
+- **Interactive Dashboard** - Real-time insights and metrics visualization
+- **Dashboard Comments** - Collaborative feedback and annotations on dashboard metrics
+- **Advanced Reporting** - Generate comprehensive reports on deliveries, trips, and operations
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### 🚚 Delivery Management
+- **Successful Deliveries Tracking** - Complete delivery success monitoring and analytics
+- **Failed Deliveries Management** - Track, analyze, and manage failed delivery attempts with detailed logging
+- **Trip Management** - Organize and monitor delivery trips with comprehensive data
 
-## Learning Laravel
+### 🏢 Hub & Operations
+- **Hub Management** - Manage multiple distribution hubs and operational centers
+- **Hub Comments** - Internal communication and notes on hub operations
+- **Client Management** - Full client/customer information and relationship management
+- **Attendance System** - Employee attendance tracking and reporting
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### 🔐 Authentication & Authorization
+- **OAuth 2.0 Authentication** - Secure API access via Laravel Passport
+- **Social Authentication** - Google Sign-In integration with Laravel Socialite
+- **Role-Based Access Control** - Fine-grained permissions system with Access management
+- **Event Logging** - Comprehensive audit trail of all system activities
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### 🛠️ Technical Features
+- **RESTful API** - Clean, modern API architecture
+- **Database Migrations** - Version-controlled schema management
+- **Background Jobs** - Queue system for asynchronous processing
+- **Testing Suite** - PHPUnit testing framework
+- **Real-time Updates** - Event broadcasting capabilities
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 🚀 Quick Start
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### Prerequisites
+- PHP 8.2 or higher
+- Composer
+- Node.js & npm
+- SQLite or MySQL database
 
-### Premium Partners
+### Installation
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+1. **Clone the repository**
+```bash
+git clone <repository-url>
+cd lm_dashboard_backend
+```
 
-## Contributing
+2. **Install dependencies**
+```bash
+composer install
+npm install
+```
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+3. **Environment setup**
+```bash
+cp .env.example .env
+php artisan key:generate
+```
 
-## Code of Conduct
+4. **Database migration**
+```bash
+php artisan migrate
+php artisan db:seed
+```
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+5. **Generate Passport keys**
+```bash
+php artisan passport:install
+```
 
-## Security Vulnerabilities
+6. **Build frontend assets**
+```bash
+npm run build
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+### Development
 
-## License
+Start the development environment:
+```bash
+npm run dev
+```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This runs:
+- Laravel development server
+- Job queue worker
+- Application logs monitoring
+- Vite hot module replacement
+
+---
+
+## 📁 Project Structure
+
+```
+app/
+├── Http/Controllers/        # API Controllers
+├── Models/                  # Eloquent Models (User, Client, Hub, Trip, etc.)
+├── Enums/                   # Access roles, event types, positions
+└── Providers/               # Service providers
+
+database/
+├── migrations/              # Schema migrations
+├── factories/               # Model factories for testing
+└── seeders/                 # Database seeders
+
+routes/
+├── api.php                  # API routes
+├── web.php                  # Web routes
+└── console.php              # Console commands
+
+tests/                        # Test suite (Feature & Unit)
+```
+
+---
+
+## 🗂️ Core Models
+
+| Model | Purpose |
+|-------|---------|
+| **User** | System users with OAuth authentication |
+| **Client** | Customer/client information management |
+| **Hub** | Distribution hubs and operational centers |
+| **Trip** | Delivery trip tracking and management |
+| **Attendance** | Employee attendance records |
+| **Report** | Business intelligence and reporting |
+| **FailedDeliveries** | Failed delivery tracking and analysis |
+| **SuccessfulDeliveries** | Successful delivery records |
+| **Access** | Role-based access control |
+| **EventLog** | Complete audit trail |
+
+---
+
+## 🔌 API Endpoints
+
+The API provides RESTful endpoints for all major operations:
+- `/api/users` - User management
+- `/api/clients` - Client operations
+- `/api/hubs` - Hub management
+- `/api/trips` - Trip tracking
+- `/api/deliveries/failed` - Failed deliveries
+- `/api/deliveries/successful` - Successful deliveries
+- `/api/dashboard` - Dashboard data
+- `/api/reports` - Report generation
+- `/api/attendance` - Attendance tracking
+
+All endpoints require authentication via Bearer token (Passport OAuth2).
+
+---
+
+## 🧪 Testing
+
+Run the test suite:
+```bash
+php artisan test
+```
+
+Or with coverage:
+```bash
+php artisan test --coverage
+```
+
+---
+
+## 📦 Dependencies
+
+### Core
+- **Laravel 12.0** - Web framework
+- **Laravel Passport** - OAuth2 authentication
+- **Laravel Socialite** - Social authentication (Google)
+- **Vite** - Frontend build tool
+
+### Development
+- **PHPUnit** - Testing framework
+- **Laravel Pint** - Code style fixing
+- **Faker** - Seeding and testing data generation
+- **Mockery** - Mocking library
+
+---
+
+## 🔒 Security
+
+- All API endpoints require authentication
+- Input validation on all requests
+- CORS enabled for specified domains (see `config/cors.php`)
+- Request rate limiting
+- CSRF protection
+- Complete audit logging via EventLog
+
+---
+
+## 📝 Environment Variables
+
+Key configuration variables in `.env`:
+```
+APP_NAME=LM Dashboard
+APP_ENV=production
+APP_DEBUG=false
+APP_URL=http://localhost
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_DATABASE=lm_dashboard
+DB_USERNAME=root
+DB_PASSWORD=
+
+PASSPORT_PERSONAL_ACCESS_CLIENT_ID=
+PASSPORT_PERSONAL_ACCESS_CLIENT_SECRET=
+
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Support
+
+For issues, questions, or suggestions, please create an issue in the repository or contact the development team.
