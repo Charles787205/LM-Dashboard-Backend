@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 class HubComment extends Model
 {
     use HasFactory;
-
+    protected $table = 'hub_comments';
     /**
      * The attributes that are mass assignable.
      *

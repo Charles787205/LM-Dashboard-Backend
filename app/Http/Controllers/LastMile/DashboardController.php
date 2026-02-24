@@ -8,6 +8,8 @@ use App\Models\Report;
 use App\Models\Hub;
 use App\Models\FailedDeliveries;
 use App\Models\Trip;
+use App\Models\DashboardComment;
+use App\Models\HubComment;
 use Illuminate\Support\Facades\DB;
 use Carbon\Carbon;
 
@@ -27,16 +29,16 @@ class DashboardController extends Controller
                     $startDate = Carbon::yesterday()->startOfDay();
                     $endDate = Carbon::yesterday()->endOfDay();
                     break;
-                case 'daily':
+                case 'today':
                     $startDate = Carbon::today()->startOfDay();
                     break;
-                case 'weekly':
+                case '7days':
                     $startDate = Carbon::now()->subDays(7);
                     break;
                 case '15days':
                     $startDate = Carbon::now()->subDays(15);
                     break;
-                case 'monthly':
+                case '30days':
                     $startDate = Carbon::now()->subMonth();
                     break;
                 default:
@@ -46,9 +48,59 @@ class DashboardController extends Controller
 
         return [$startDate, $endDate];
     }
+
+    public function getDashboardComment(Request $request){
+        $period = $request->get('period', 'today');
+        $hubIds = $request->get('hubIds') ? explode(',', $request->get('hubIds')) : [];
+
+        if(count($hubIds) > 0){
+            $hubComments = HubComment::with(['user' => function ($query) {
+                $query->select('id', 'name');
+            }])->whereIn('hub_id', $hubIds)
+                ->whereIn('id', function ($query) {
+                    $query->selectRaw('MAX(id)')
+                        ->from('hub_comments')
+                        ->groupBy('hub_id');
+                })
+                ->orderBy('created_at', 'desc')
+                ->get();
+        }else{
+                $hubComments = HubComment::with(['user' => function ($query) {
+                    $query->select('id', 'name');
+                }])->whereIn('id', function ($query) {
+                    $query->selectRaw('MAX(id)')
+                        ->from('hub_comments')
+                        ->groupBy('hub_id');
+                })
+                ->orderBy('created_at', 'desc')
+                ->get();
+        }
+        $dashboardComment = DashboardComment::with(['user' => function ($query) {
+            $query->select('id', 'name'); // select only id and name
+                }])->orderBy('created_at', 'desc')->first();
+
+        
+        if($period === "custom"){
+            $customEndDate = $request->get('endDate');
+            $dashboardComment = DashboardComment::with(['user' => function ($query) {
+                $query->select('id', 'name'); // select only id and name
+                }])->whereBetween('created_at', [
+                    Carbon::parse($request->get('startDate'))->startOfDay(),
+                    Carbon::parse($customEndDate)->endOfDay()
+                ])->orderBy('created_at', 'desc')->first();
+                }
+        
+        
+
+        return response()->json([
+            'dashboardComment' => $dashboardComment,
+            'hubComments' => $hubComments
+        ]);
+    }
+
     private function getDashboardFilters(Request $request)
     {
-        $period = $request->get('period', 'weekly');
+        $period = $request->get('period', 'today');
         $customStartDate = $request->get('startDate');
         $customEndDate = $request->get('endDate');
         $hubId = $request->get('hubId');

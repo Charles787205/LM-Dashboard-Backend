@@ -14,6 +14,7 @@ class HubController extends Controller
         $hubs = Hub::with(['hubLead:id,name,email', 'client:id,name,color_code'])->get();
         return response()->json($hubs);
     }
+    
 
 
     public function store(Request $request)

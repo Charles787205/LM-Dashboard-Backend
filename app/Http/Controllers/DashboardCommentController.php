@@ -7,9 +7,17 @@ use Illuminate\Http\Request;
 class DashboardCommentController extends Controller
 {
     
-    public function index(){
-        $comments  = DashboardComment::with('user')->orderBy('created_at', 'desc')->get();
+    public function index(Request $request){
+        //get the last comment
+        
+        $comments  = DashboardComment::with('user')->orderBy('created_at', 'desc')->first();
         return response()->json($comments);
+    }
+
+    public function getCommentsByUser($userId){
+        $comment  = DashboardComment::with('user')->where('user_id', $userId)->orderBy('created_at', 'desc')->first();
+
+        return response()->json($comment);
     }
 
     public function store(Request $request){

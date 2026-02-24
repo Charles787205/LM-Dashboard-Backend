@@ -10,6 +10,7 @@ use App\Http\Controllers\LastMile\ClientController;
 use App\Http\Controllers\LastMile\ReportController;
 use App\Http\Controllers\LastMile\DashboardController;
 use App\Http\Controllers\DashboardCommentController;
+use App\Http\Controllers\HubCommentController;
 
 Route::get('/auth/google/redirect', [GoogleController::class, 'redirect']);
 Route::get('/auth/google/callback', [GoogleController::class, 'callback']);
@@ -26,7 +27,10 @@ Route::middleware('auth:api')->group(function() {
     Route::get('/reports/hub/{hubId}', [ReportController::class, 'getByHub']);
     Route::get('/dashboard/dashboard-stats', [DashboardController::class, 'getDashboardStats']);
     Route::get('/dashboard/daily-trends', [DashboardController::class, 'getDailyTrends']);
-    Route::get('/dashboard/hub-performance', [DashboardController::class, 'getHubPerformance']);
     Route::get('/dashboard/key-metrics', [DashboardController::class, 'getKeyMetrics']);
-    Route::resource('dashboard-comments', DashboardCommentController::class)->only(['index', 'store']);
-});
+    Route::get('/dashboard/comments', [DashboardController::class, 'getDashboardComment']);
+    Route::post('/dashboard/comments', [DashboardCommentController::class, 'store']);
+    Route::get('/hubs/comments/{id}', [HubCommentController::class, 'getCommentByHub']);
+    Route::resource('/hubs/comments', HubCommentController::class)->only(['index', 'store']);
+    });
+    Route::get('/dashboard/hub-performance', [DashboardController::class, 'getHubPerformance']);
